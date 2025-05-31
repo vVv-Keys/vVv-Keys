@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/keys-guard-banner.png" width="100%" />
+<img src="https://github.com/vVv-Keys/readme.md/blob/main/keysguardbanner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+builder+%7C+Threat+hunter+%7C+Digital+tinkerer" />
 
