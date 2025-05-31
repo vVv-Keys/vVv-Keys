@@ -11,7 +11,6 @@
 🔍  Offensive security • Recon • Memory scanning
 🧠  Learning through hands-on projects
 📊  Projects: KeysGuard, ThreatNet, AI Recon, more...
-🎮  FiveM anti-cheat builder | Cyberpunk dashboard enjoyer
 </pre>
 
 <br>
