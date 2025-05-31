@@ -17,7 +17,7 @@
 
 [![](https://img.shields.io/badge/GitHub-vVv--Keys-black?style=for-the-badge&logo=github)](https://github.com/vVv-Keys)
 [![](https://img.shields.io/badge/Portfolio-Live%20Now-5e0ce0?style=for-the-badge)](https://about-keys.vercel.app/)
-[![](https://img.shields.io/badge/Discord-%40keys-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/scanning)
+[![](https://img.shields.io/badge/Discord-%40keys-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zxAkGet7Qs)
 
 </div>
 
