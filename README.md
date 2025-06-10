@@ -11,6 +11,7 @@
 🔍  Offensive security • Recon • Memory scanning
 🧠  Learning through hands-on projects
 📊  Projects: KeysGuard, ThreatNet, AI Recon, more...
+🛠️  keytools.vercel.app <--- for hackers/by hackers :)
 </pre>
 
 <br>
