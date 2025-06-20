@@ -4,36 +4,68 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=150&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+builder+%7C+Threat+hunter+%7C+Digital+tinkerer" />
 
+---
+
+### 🧠 About Me
+
+🛠️ Building tools to break, learn, and defend.<br>
+🔍 Red Team Ops | Memory Forensics | AI-powered Threat Simulation<br>
+📊 Offensive R&D meets SIGMA Detection Engineering<br>
+🎯 Projects: KeysGuard, CyberNetics, AIShadow, more...<br>
+
+
+
+---
+
+### ⚙️ Tech Stack
+
 </div>
 
-### 🛠️ About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-🦀-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/PowerShell-core-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/C-red?style=for-the-badge&logo=c">
+  <img src="https://img.shields.io/badge/C%23-6B40A2?style=for-the-badge&logo=csharp&logoColor=white">
+</p>
 
-🧠 Building tools to break, learn, and defend.
-🔍 Offensive security • Recon • Memory scanning • SIGMA detection
-🛡️ Purple teaming | Threat emulation | AI-assisted malware research
-🎯 Hands-on, threat-driven, and always learning
+<p align="center">
+  <img src="https://img.shields.io/badge/SIGMA-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/YARA-teal?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Sliver-C2-lightgray?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Caldera-MITRE-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OpenCTI-intelligence-brightgreen?style=for-the-badge">
+</p>
 
-### 🧬 Featured Projects
+<div align="center">
 
-| Project | Description |
-|--------|-------------|
-| [`aishadow-malware-labs`](https://github.com/vVv-Keys/aishadow-malware-labs) | AI-assisted red team malware labs |
-| [`purple-threat-sim-campaign-001`](https://github.com/vVv-Keys/purple-threat-sim-campaign-001) | APT-style kill chain emulation w/ detections |
-| [`sigma-rules`](https://github.com/vVv-Keys/sigma-rules) | Custom SIGMA rules for stealthy red ops |
-| [`redteam-tactics-lab`](https://github.com/vVv-Keys/redteam-tactics-lab) | In-memory payloads, BOFs, and evasion |
-| [`cybernetics-platform`](https://github.com/vVv-Keys/cybernetics-platform) *(coming soon)* | Threat intelligence dashboards powered by OpenCTI |
+### 🔥 Featured Projects
 
----
+<table align="center">
+<tr>
+  <td><b><a href="https://github.com/vVv-Keys/aishadow-malware-labs">AIShadow Malware Labs</a></b></td>
+  <td>AI-assisted malware simulation & POC scripting</td>
+</tr>
+<tr>
+  <td><b><a href="https://github.com/vVv-Keys/purple-threat-sim-campaign-001">Purple Sim Campaign 001</a></b></td>
+  <td>Red vs Blue TTP chain with SIGMA detection</td>
+</tr>
+<tr>
+  <td><b><a href="https://github.com/vVv-Keys/sigma-rules">Custom SIGMA Rules</a></b></td>
+  <td>Detection engineering mapped to MITRE TTPs</td>
+</tr>
+<tr>
+  <td><b><a href="https://github.com/vVv-Keys/redteam-tactics-lab">Red Team Lab</a></b></td>
+  <td>Payloads, memory injectors, BOF templates</td>
+</tr>
+<tr>
+  <td><b><a href="https://github.com/vVv-Keys/cybernetics-platform">CyberNetics</a></b></td>
+  <td>Threat Intelligence dashboard with OpenCTI</td>
+</tr>
+</table>
 
-### 🛠️ Key Tools
 
-- **Languages**: Rust, Python, PowerShell, C, C#
-- **Tools**: Sliver, OpenCTI, Sigma/YARA, Sysmon, Caldera
-- **Specialties**: Loader engineering, SIGMA rulecraft, adversary emulation, AI recon
-
----
-
-### 📡 Connect With Me
+### 🌐 Connect With Me
 
 [![](https://img.shields.io/badge/GitHub-vVv--Keys-black?style=for-the-badge&logo=github)](https://github.com/vVv-Keys)
 [![](https://img.shields.io/badge/Portfolio-Live%20Now-5e0ce0?style=for-the-badge)](https://about-keys.vercel.app/)
@@ -41,8 +73,4 @@
 
 > 🛰️ “Assume breach. Simulate smarter.”
 
----
-
-### 👀 Bonus:
-> 🔓 Explore `keytools.vercel.app` – built by hackers, for hackers 😈
-
+</div>
