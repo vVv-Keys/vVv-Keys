@@ -1,76 +1,130 @@
 <div align="center">
 
-<img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" height="60%" width="40%" />
+<img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="250" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=150&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+builder+%7C+Threat+hunter+%7C+Digital+tinkerer" />
-
----
-
-### 🧠 About Me
-
-🛠️ Building tools to break, learn, and defend.<br>
-🔍 Red Team Ops | Memory Forensics | AI-powered Threat Simulation<br>
-📊 Offensive R&D meets SIGMA Detection Engineering<br>
-🎯 Projects: KeysGuard, CyberNetics, AIShadow, more...<br>
-
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer)
 
 ---
 
-### ⚙️ Tech Stack
+[![Profile Views](https://komarev.com/ghpvc/?username=vVv-Keys&style=flat&color=16F2B3)](https://github.com/vVv-Keys)
+[![GitHub followers](https://img.shields.io/github/followers/vVv-Keys?label=Follow%20Me&style=social)](https://github.com/vVv-Keys)
+[![Discord](https://img.shields.io/badge/Discord-%40keys-%237289DA?style=flat&logo=discord)](https://discord.gg/zxAkGet7Qs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Now-5e0ce0?style=flat)](https://about-keys.vercel.app/)
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-🦀-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/PowerShell-core-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-  <img src="https://img.shields.io/badge/C-red?style=for-the-badge&logo=c">
-  <img src="https://img.shields.io/badge/C%23-6B40A2?style=for-the-badge&logo=csharp&logoColor=white">
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SIGMA-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/YARA-teal?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Sliver-C2-lightgray?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Caldera-MITRE-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/OpenCTI-intelligence-brightgreen?style=for-the-badge">
-</p>
+## 🧠 About Me
+
+🛠️ **Builder of tools to break, learn, and defend**  
+🔎 *Red Team Ops | Memory Forensics | SIGMA Detection Engineering | CTI pipelines*  
+📊 *Offensive R&D meets Threat Simulation*  
+🚀 *Projects: KeysGuard, CyberNetics, AIShadow, more...*
+
+> 🛰️ *“Assume breach. Simulate smarter.”*
+
+---
+
+## ⚙️ Skills
 
 <div align="center">
 
-### 🔥 Featured Projects
+<p>
+  <img src="https://img.shields.io/badge/Rust-🦀-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/PowerShell-Core-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-red?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIGMA-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YARA-teal?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sliver-C2-lightgray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Caldera-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCTI-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ATT%26CK-Framework-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threat_Intelligence-cyan?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Memory_Forensics-gray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Detection_Engineering-gold?style=for-the-badge" />
+</p>
 
-<table align="center">
-<tr>
-  <td><b><a href="https://github.com/vVv-Keys/aishadow-malware-labs">AIShadow Malware Labs</a></b></td>
-  <td>AI-assisted malware simulation & POC scripting</td>
-</tr>
-<tr>
-  <td><b><a href="https://github.com/vVv-Keys/purple-threat-sim-campaign-001">Purple Sim Campaign 001</a></b></td>
-  <td>Red vs Blue TTP chain with SIGMA detection</td>
-</tr>
-<tr>
-  <td><b><a href="https://github.com/vVv-Keys/sigma-rules">Custom SIGMA Rules</a></b></td>
-  <td>Detection engineering mapped to MITRE TTPs</td>
-</tr>
-<tr>
-  <td><b><a href="https://github.com/vVv-Keys/redteam-tactics-lab">Red Team Lab</a></b></td>
-  <td>Payloads, memory injectors, BOF templates</td>
-</tr>
-<tr>
-  <td><b><a href="https://github.com/vVv-Keys/cybernetics-platform">CyberNetics</a></b></td>
-  <td>Threat Intelligence dashboard with OpenCTI</td>
-</tr>
-</table>
+</div>
 
+---
 
-### 🌐 Connect With Me
+## 🚀 Featured Projects
 
-[![](https://img.shields.io/badge/GitHub-vVv--Keys-black?style=for-the-badge&logo=github)](https://github.com/vVv-Keys)
-[![](https://img.shields.io/badge/Portfolio-Live%20Now-5e0ce0?style=for-the-badge)](https://about-keys.vercel.app/)
-[![](https://img.shields.io/badge/Discord-%40keys-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zxAkGet7Qs)
+<div align="center">
 
-> 🛰️ “Assume breach. Simulate smarter.”
+<a href="https://github.com/vVv-Keys/aishadow-malware-labs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=aishadow-malware-labs&theme=radical" />
+</a>
+<a href="https://github.com/vVv-Keys/purple-threat-sim-campaign-001">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=purple-threat-sim-campaign-001&theme=radical" />
+</a>
+<a href="https://github.com/vVv-Keys/sigma-rules">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=sigma-rules&theme=radical" />
+</a>
+<a href="https://github.com/vVv-Keys/cybernetics-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=cybernetics-platform&theme=radical" />
+</a>
+
+</div>
+
+---
+
+## 🛰️ Threat Feeds
+
+[![ThreatFox](https://img.shields.io/badge/Threat_Feed-ThreatFox-red?style=for-the-badge)](https://threatfox.abuse.ch/)  
+[![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-Check-yellow?style=for-the-badge)](https://abuseipdb.com/)  
+[![AlienVault OTX](https://img.shields.io/badge/AlienVault_OTX-Live-green?style=for-the-badge)](https://otx.alienvault.com/)
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vVv-Keys&theme=radical&no-frame=true&no-bg=true&margin-w=8)](https://github.com/vVv-Keys)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Keys's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vVv-Keys&show_icons=true&theme=radical&count_private=true)
+![Keys's Streak](https://streak-stats.demolab.com?user=vVv-Keys&theme=radical)
+![Keys's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vVv-Keys&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/vVv-Keys">
+  <img src="https://img.shields.io/badge/GitHub-vVv--Keys-black?style=for-the-badge&logo=github" />
+</a>
+<a href="https://about-keys.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Now-5e0ce0?style=for-the-badge" />
+</a>
+<a href="https://discord.gg/zxAkGet7Qs">
+  <img src="https://img.shields.io/badge/Discord-%40keys-%237289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⚡ *Pushing boundaries, one line of code at a time.*
 
 </div>
