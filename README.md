@@ -1,4 +1,4 @@
----
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer)
 
 <div align="center">
 
@@ -7,10 +7,7 @@
 <!-- 🛡️ Cybersecurity | 💰 Financial | 💼 Business Development -->
 <h3>🛡️ Cybersecurity &nbsp;&nbsp;|&nbsp;&nbsp; 💰 Financial &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Business Development</h3>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer)
-
-
-</div>
+</div> 
 
 ---
 
