@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GhostSec CLI Dashboard</title>
+  <link rel="stylesheet" href="dashboard.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>👻 GhostSec CLI Interface</h1>
+    <div class="terminal">
+      <div id="terminal-output">
+        <div>> keysguard --help</div>
+        <div>Cybersecurity Specialist | Threat Hunter | Detection Engineer</div>
+        <div>404 Labs // AI Enrichment // MITRE Simulations</div>
+        <br />
+        <div>Usage:</div>
+        <div><span class="cmd">ghostsec</span> [--intel] [--train]</div>
+        <div><span class="cmd">academy</span> → Access KeysGuard</div>
+        <div><span class="cmd">feedscan</span> → Pull latest IoC from ThreatFox</div>
+        <div><span class="cursor">_</span></div>
+      </div>
+      <input id="terminal-input" type="text" placeholder="Type a command..." autofocus />
+    </div>
+
+    <div class="info-panel">
+      <h2>📊 MITRE Grid Simulator</h2>
+      <canvas id="mitre-canvas" width="400" height="200"></canvas>
+    </div>
+  </div>
+  <script src="dashboard.js"></script>
+</body>
+</html>
