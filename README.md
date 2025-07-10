@@ -14,19 +14,17 @@
 
 ---
 
-</div>
-
 ## 🧠 About Me
 
 🛠️ **Builder of tools to break, learn, and defend**  
 🔎 *Red Team Ops | Memory Forensics | SIGMA Detection Engineering | CTI pipelines*  
 📊 *Offensive R&D meets Threat Simulation*  
 🚀 *Projects: KeysGuard, CyberNetics, AIShadow, more...*<br>
+⚙️ *Constantly learning new languages, techniques, methods, implementations + more*
+
 
 > 🛰️ *“Assume breach. Simulate smarter.”* 
 
-
-</div>
 
 ---
 
@@ -37,6 +35,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%40KeysGuard-%237289DA?style=flat&logo=discord)](https://discord.gg/zxAkGet7Qs)
 [![Portfolio](https://img.shields.io/badge/Portfolio-VERCEL%20-5e0ce0?style=flat)](https://about-keys.vercel.app/)
 
+</div> 
+
 ---
 
 <div align="center">
@@ -44,11 +44,44 @@
 ### 🎓 404 Labs
 A secure red/purple team educational lab system, featuring adversary emulation, SIGMA-based detection engineering, and interactive cyber simulation.
 
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1384863283516936232/1390425574731939850/20250702-0250-25.5331115-ezgif.com-video-to-gif-converter.gif?ex=68701f39&is=686ecdb9&hm=2f16ae15a628e6e826947d36e17b1af8cbdf10546c2133a01d7d152e53c78605&" width="700" />
 </div>
 
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1384863283516936232/1390425574731939850/20250702-0250-25.5331115-ezgif.com-video-to-gif-converter.gif?ex=68701f39&is=686ecdb9&hm=2f16ae15a628e6e826947d36e17b1af8cbdf10546c2133a01d7d152e53c78605&" width="700" /></div>
+
+
 ---
+
+## 🎯 Currently Building
+
+- 🛰️ **GhostSec Intelligence Dashboard** – MITRE-mapped alerts, TTPs, and live heatmaps  
+- 🧠 **Quantum Threat Fusion Engine** – AI-assisted threat scoring + attacker chaining  
+- 🔁 **Discord ↔ Webhook ↔ DB Routing System** – real-time threat enrichment and routing  
+- 🧩 **Modular deception framework** – Honeytokens, GhostFrames, and campaign visualizers  
+- 📚 **KeysGuard Academy** – open red/purple team training modules under 404 Labs  
+
+---
+
+## 📆 Roadmap Preview
+
+```mermaid
+graph LR
+  A[Phase 1: Collection Engine] --> B[Phase 2: Discord Feed System]
+  B --> C[Phase 3: AI Enrichment & Scoring]
+  C --> D[Phase 4: Dashboard Intelligence Sync]
+  D --> E[Phase 5: Threat Response Automation]
+  E --> F[Phase 6: Community Feedback + Voting]
+```
+🧩 Tools, Gists, and Micro-Labs
+- 🧪 Sigma + YARA Labs (Public-ready hunting templates)
+- 🐍 Python CTI Enrichers (Live enrichment plugins)
+- 📎 One-file PoCs
+- 📡 IOC Validators (Modular + webhook driven)
+- 🧠 Community Intelligence
+- 🌐 Feed	🔍 Source	🔗 Link
+
+> You can access these inside the GhostSec dashboard with built-in AI commentary and MITRE tagging.
+
 
 <div align="center">
 
