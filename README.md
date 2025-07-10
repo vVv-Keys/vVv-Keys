@@ -48,11 +48,25 @@
   <img src="https://img.shields.io/badge/Threat_Intelligence-cyan?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Memory_Forensics-gray?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Detection_Engineering-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Enrichment-magenta?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Memory_Forensics-gray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Threat_Hunting-cyan?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 </div>
 
 ---
+### 🎓 KeysGuard CyberAcademy (Preview)
+
+A secure red/purple team educational lab system, featuring adversary emulation, SIGMA-based detection engineering, and interactive cyber simulation.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="700" />
+</div>
 
 ## 🚀 Featured Projects
 
@@ -64,11 +78,11 @@
 <a href="https://github.com/vVv-Keys/purple-threat-sim-campaign-001">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=purple-threat-sim-campaign-001&theme=radical" />
 </a>
-<a href="https://github.com/vVv-Keys/sigma-rules">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=sigma-rules&theme=radical" />
+<a href="https://github.com/vVv-Keys/loveable-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=loveable-projecttheme=radical" />
 </a>
-<a href="https://github.com/vVv-Keys/cybernetics-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=cybernetics-platform&theme=radical" />
+<a href="https://github.com/vVv-Keys/ghostsec-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=ghostsec-platform&theme=radical" />
 </a>
 
 </div>
