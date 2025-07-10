@@ -159,8 +159,8 @@ A secure red/purple team educational lab system, featuring adversary emulation, 
 <a href="https://github.com/vVv-Keys/NTFS-Security-Descriptor-Analyzer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=NTFS-Security-Descriptor-Analyzer&theme=radical" />
 </a>
-<a href="https://github.com/vVv-Keys/aishadow-malware-labs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=aishadow-malware-labs&theme=radical" />
+<a href="https://github.com/vVv-Keys/atomic-red-team">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=atomic-red-team&theme=radical" />
 </a>
 </div>
 
