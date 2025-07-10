@@ -78,27 +78,24 @@ graph LR
 ```
 ---
 
-## 🧩 Tools, Gists, and Micro-Labs
+<div align="center">
 
-- 🧪 [`Sigma + YARA Labs`](https://gist.github.com/vVv-Keys) *(Public-ready hunting templates)*
-- 🐍 [`Python CTI Enrichers`](https://github.com/vVv-Keys/KeysTools) *(Live enrichment plugins)*
-- 📎 [`One-file PoCs`](https://github.com/vVv-Keys/aishadow-malware-labs/tree/main/standalone-pocs)
-- 📡 [`IOC Validators`](https://github.com/vVv-Keys/404-CTI) *(Modular + webhook driven)*
+| Tools | Gists | Micro-Labs |
+|--------|-----------|--------|
+| 🧪 [`Sigma + YARA Labs`](https://gist.github.com/vVv-Keys) | *(Public-ready hunting templates)* | X |
+| 🐍 [`Python CTI Enrichers`](https://github.com/vVv-Keys/KeysTools) | *(Live enrichment plugins)* | X |
+| 📎 [`One-file PoCs`](https://github.com/vVv-Keys/aishadow-malware-labs/tree/main/standalone-pocs) | *(Custom + Enhanced)* | X | 
+| 📡 [`IOC Validators`](https://github.com/vVv-Keys/404-CTI) | *(Modular + webhook driven)* | X | 
+
+</div>
 
 ---
+
 <div align="center">
 
 ## 🧠 Community Intelligence Feeds
 
-| 🌐 Feed | 🔍 Source | 🔗 Link |
-|--------|-----------|--------|
-| ThreatFox | Abuse.ch | [Visit](https://threatfox.abuse.ch/) |
-| AbuseIPDB | Reputation | [Visit](https://abuseipdb.com/) |
-| AlienVault OTX | CTI Sharing | [Visit](https://otx.alienvault.com/) |
-
  💡 *Access these within GhostSec Dashboard + MITRE Tagging + AI Commentary.*
-
-### 📡 Community Intelligence Feeds
 <!-- 📡 Threat Intelligence Feeds -->
 <img src="https://img.shields.io/badge/VirusTotal-Scan%20Intel-blue?style=for-the-badge&logo=virustotal" />
 <img src="https://img.shields.io/badge/ThreatFox-Feed-red?style=for-the-badge" />
@@ -107,10 +104,8 @@ graph LR
 
 [![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-Check-yellow?style=for-the-badge)](https://abuseipdb.com/)    [![ThreatFox](https://img.shields.io/badge/Threat_Feed-ThreatFox-red?style=for-the-badge)](https://threatfox.abuse.ch/)[![AlienVault OTX](https://img.shields.io/badge/AlienVault_OTX-Live-green?style=for-the-badge)](https://otx.alienvault.com/)
 
-
 </div>
 
----
 ---
 
 <div align="center">
@@ -132,7 +127,6 @@ graph LR
 <img src="https://img.shields.io/badge/SQL-StructuredQuery-blue?style=for-the-badge&logo=postgresql" />
 <img src="https://img.shields.io/badge/Assembly-x86_64-informational?style=for-the-badge" />
 
----
 <br><br>
 ### 🖥️ Platforms & Systems
 <!-- 🖥️ Platforms & Systems -->
@@ -143,7 +137,6 @@ graph LR
 <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql" />
 <img src="https://img.shields.io/badge/Vercel-Hosting-000000?style=for-the-badge&logo=vercel" />
 
----
 <br><br>
 ### 🔐 Security Modules
 <!-- 🔐 Security Domains -->
@@ -158,7 +151,6 @@ graph LR
 <img src="https://img.shields.io/badge/Adversary%20Emulation-APT-blueviolet?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Security%20Automation-Orchestration-lightgrey?style=for-the-badge" />
 
----
 <br><br>
 ### ⚙️ Tool & Frameworks
  <!-- ⚙️ Tools & Frameworks --> 
@@ -176,9 +168,7 @@ graph LR
 <img src="https://img.shields.io/badge/OpenCTI-ThreatGraph-brightgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions" />
 
----
 <br><br>
----
 
 ## 🚀 Featured Projects
 
@@ -214,8 +204,6 @@ graph LR
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=atomic-red-team&theme=radical" />
 </a>
 </div>
-
----
 
 ## 🔐 Private Projects (Overview)
 
@@ -254,7 +242,7 @@ Reach out via GitHub or drop me a secure message.
 
 </div>
 
----
+<div align="center">
 
 ⚡ *Pushing boundaries, one line of code at a time.*
 
