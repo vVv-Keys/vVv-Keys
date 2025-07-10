@@ -12,17 +12,6 @@
 
 </div>
 
-
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-[![Profile Views](https://komarev.com/ghpvc/?username=vVv-Keys&style=flat&color=16F2B3)](https://github.com/vVv-Keys)
-[![GitHub followers](https://img.shields.io/github/followers/vVv-Keys?label=Follow%20Me&style=social)](https://github.com/vVv-Keys)
-[![Discord](https://img.shields.io/badge/Discord-%40KeysGuard-%237289DA?style=flat&logo=discord)](https://discord.gg/zxAkGet7Qs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-VERCEL%20-5e0ce0?style=flat)](https://about-keys.vercel.app/)
-
 ---
 
 </div>
@@ -37,6 +26,26 @@
 > 🛰️ *“Assume breach. Simulate smarter.”* 
 
 
+</div>
+
+---
+
+<div align="center">
+ 
+[![Profile Views](https://komarev.com/ghpvc/?username=vVv-Keys&style=flat&color=16F2B3)](https://github.com/vVv-Keys)
+[![GitHub followers](https://img.shields.io/github/followers/vVv-Keys?label=Follow%20Me&style=social)](https://github.com/vVv-Keys)
+[![Discord](https://img.shields.io/badge/Discord-%40KeysGuard-%237289DA?style=flat&logo=discord)](https://discord.gg/zxAkGet7Qs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-VERCEL%20-5e0ce0?style=flat)](https://about-keys.vercel.app/)
+
+---
+
+<div align="center">
+
+### 🎓 404 Labs
+A secure red/purple team educational lab system, featuring adversary emulation, SIGMA-based detection engineering, and interactive cyber simulation.
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1384863283516936232/1390425574731939850/20250702-0250-25.5331115-ezgif.com-video-to-gif-converter.gif?ex=68701f39&is=686ecdb9&hm=2f16ae15a628e6e826947d36e17b1af8cbdf10546c2133a01d7d152e53c78605&" width="700" />
 </div>
 
 ---
@@ -115,19 +124,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-### 🎓 404 Labs
-A secure red/purple team educational lab system, featuring adversary emulation, SIGMA-based detection engineering, and interactive cyber simulation.
-
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1384863283516936232/1390425574731939850/20250702-0250-25.5331115-ezgif.com-video-to-gif-converter.gif?ex=68701f39&is=686ecdb9&hm=2f16ae15a628e6e826947d36e17b1af8cbdf10546c2133a01d7d152e53c78605&" width="700" />
-</div>
-
----
-
-
 
 ## 🚀 Featured Projects
 
