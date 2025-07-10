@@ -150,7 +150,18 @@ A secure red/purple team educational lab system, featuring adversary emulation, 
 <a href="https://github.com/vVv-Keys/purple-threat-sim-campaign-001">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=purple-threat-sim-campaign-001&theme=radical" />
 </a>
-
+<a href="https://github.com/vVv-Keys/cyber-loveable-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=cyber-loveable-project&theme=radical" />
+</a>
+<a href="https://github.com/vVv-Keys/AI-ML-Learning-Resource-Hub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=AI-ML-Learning-Resource-Hub&theme=radical" />
+</a>
+<a href="https://github.com/vVv-Keys/NTFS-Security-Descriptor-Analyzer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=NTFS-Security-Descriptor-Analyzer&theme=radical" />
+</a>
+<a href="https://github.com/vVv-Keys/aishadow-malware-labs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=aishadow-malware-labs&theme=radical" />
+</a>
 </div>
 
 ---
