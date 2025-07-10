@@ -36,15 +36,9 @@
 ---
 
 <div align="center">
-
-### 🎓 404 Labs
-A secure red/purple team educational lab system, featuring adversary emulation, SIGMA-based detection engineering, and interactive cyber simulation.
+  <img src="https://cdn.discordapp.com/attachments/1384863283516936232/1390425574731939850/20250702-0250-25.5331115-ezgif.com-video-to-gif-converter.gif?ex=68701f39&is=686ecdb9&hm=2f16ae15a628e6e826947d36e17b1af8cbdf10546c2133a01d7d152e53c78605&" width="900" height="900" /></div>
 
 </div>
-
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1384863283516936232/1390425574731939850/20250702-0250-25.5331115-ezgif.com-video-to-gif-converter.gif?ex=68701f39&is=686ecdb9&hm=2f16ae15a628e6e826947d36e17b1af8cbdf10546c2133a01d7d152e53c78605&" width="700" /></div>
-
 
 ---
 
@@ -69,6 +63,9 @@ A secure red/purple team educational lab system, featuring adversary emulation, 
   </a>
 <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/404ghostsec.png" width="300" height="400" /></div>
 </p>
+<div align="center">
+<img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/ghostsec_cli_ttp_sim.gif" width="900" height="900" /></div>
+
 
 </div> 
 
