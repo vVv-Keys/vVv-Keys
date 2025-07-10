@@ -69,6 +69,8 @@ A secure red/purple team educational lab system, featuring adversary emulation, 
   </a>
 </p>
 
+</div> 
+
 ---
 
 ## 📆 Roadmap Preview
