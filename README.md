@@ -1,20 +1,3 @@
-## 🛰️ GhostSec Live Dashboard
-
-> MITRE ATT&CK visualizer, terminal CLI, and threat feed panel built using HTML/CSS/JS.
-
-<p align="center">
-  <a href="https://vvv-keys.github.io/vVv-Keys/" target="_blank">
-    <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/ghostsec-dashboard.png" height="400%" width="60%" alt="GhostSec Dashboard Preview" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://vvv-keys.github.io/vVv-Keys/">
-    <img src="https://img.shields.io/badge/Launch-Dashboard-blueviolet?style=for-the-badge&logo=github" alt="Launch Button" />
-  </a>
-</p>
-
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer)
 
 <div align="center">
@@ -72,6 +55,19 @@ A secure red/purple team educational lab system, featuring adversary emulation, 
 - 🔁 **Discord ↔ Webhook ↔ DB Routing System** – real-time threat enrichment and routing  
 - 🧩 **Modular deception framework** – Honeytokens, GhostFrames, and campaign visualizers  
 - 📚 **KeysGuard Academy** – open red/purple team training modules under 404 Labs  
+
+---
+
+<div align="center">
+
+## 🛰️ GhostSec Live Dashboard
+ MITRE ATT&CK visualizer, terminal CLI, and threat feed panel built using HTML/CSS/JS.
+
+<p align="center">
+  <a href="https://vvv-keys.github.io/vVv-Keys/" target="_blank">
+    <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/ghostsec-dashboard.png" height="400%" width="60%" alt="GhostSec Dashboard Preview" />
+  </a>
+</p>
 
 ---
 
