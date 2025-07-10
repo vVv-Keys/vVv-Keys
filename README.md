@@ -4,7 +4,7 @@
 
 <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="250" />
 
-<h3>🛡️ Cybersecurity &nbsp;&nbsp;|&nbsp;&nbsp; 💰 Financial &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Business Development</h3>
+<h3>🛡️ Cybersecurity &nbsp;&nbsp;|&nbsp;&nbsp; 💰 Finance &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Business Development</h3>
 
 </div>
 
@@ -34,10 +34,10 @@
 ---
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1384863283516936232/1390425574731939850/20250702-0250-25.5331115-ezgif.com-video-to-gif-converter.gif?ex=68701f39&is=686ecdb9&hm=2f16ae15a628e6e826947d36e17b1af8cbdf10546c2133a01d7d152e53c78605&" width="900" height="900" />
-</div>
+  
+<img src="https://cdn.discordapp.com/attachments/1384863283516936232/1390425574731939850/20250702-0250-25.5331115-ezgif.com-video-to-gif-converter.gif?ex=68701f39&is=686ecdb9&hm=2f16ae15a628e6e826947d36e17b1af8cbdf10546c2133a01d7d152e53c78605&" width="900" height="900" />
 
----
+</div>
 
 ## 🎯 Currently Building
 
@@ -109,8 +109,6 @@ graph LR
 ---
 
 <div align="center">
-
-## ⚙️ Skills / Experience / Free Resources / Projects 
 
 ### 🧠 Languages & Scripting
 <!-- 🧠 Languages & Scripting -->
