@@ -1,0 +1,36 @@
+body {
+  background-color: #0d1117;
+  color: #00ffcc;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0;
+  padding: 2rem;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.terminal {
+  background-color: #161b22;
+  padding: 1rem;
+  border-radius: 10px;
+}
+#terminal-input {
+  width: 100%;
+  background: transparent;
+  border: none;
+  border-top: 1px solid #00ffcc;
+  padding-top: 0.5rem;
+  color: #00ffcc;
+  font-size: 1rem;
+}
+.cursor {
+  animation: blink 1s infinite;
+}
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+.cmd {
+  color: #ff66cc;
+}
