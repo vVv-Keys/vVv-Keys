@@ -4,10 +4,9 @@
 
 <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="250" />
 
-<!-- 🛡️ Cybersecurity | 💰 Financial | 💼 Business Development -->
 <h3>🛡️ Cybersecurity &nbsp;&nbsp;|&nbsp;&nbsp; 💰 Financial &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Business Development</h3>
 
-</div> 
+</div>
 
 ---
 
@@ -16,28 +15,26 @@
 🛠️ **Builder of tools to break, learn, and defend**  
 🔎 *Red Team Ops | Memory Forensics | SIGMA Detection Engineering | CTI pipelines*  
 📊 *Offensive R&D meets Threat Simulation*  
-🚀 *Projects: KeysGuard, CyberNetics, AIShadow, more...*<br>
+🚀 *Projects: KeysGuard, CyberNetics, AIShadow, more...*  
 ⚙️ *Constantly learning new languages, techniques, methods, implementations + more*
 
-
-> 🛰️ *“Assume breach. Simulate smarter.”* 
+> 🛰️ *“Assume breach. Simulate smarter.”*
 
 ---
 
 <div align="center">
- 
+
 [![Profile Views](https://komarev.com/ghpvc/?username=vVv-Keys&style=flat&color=16F2B3)](https://github.com/vVv-Keys)
 [![GitHub followers](https://img.shields.io/github/followers/vVv-Keys?label=Follow%20Me&style=social)](https://github.com/vVv-Keys)
 [![Discord](https://img.shields.io/badge/Discord-%40KeysGuard-%237289DA?style=flat&logo=discord)](https://discord.gg/zxAkGet7Qs)
 [![Portfolio](https://img.shields.io/badge/Portfolio-VERCEL%20-5e0ce0?style=flat)](https://about-keys.vercel.app/)
 
-</div> 
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1384863283516936232/1390425574731939850/20250702-0250-25.5331115-ezgif.com-video-to-gif-converter.gif?ex=68701f39&is=686ecdb9&hm=2f16ae15a628e6e826947d36e17b1af8cbdf10546c2133a01d7d152e53c78605&" width="900" height="900" /></div>
-
+  <img src="https://cdn.discordapp.com/attachments/1384863283516936232/1390425574731939850/20250702-0250-25.5331115-ezgif.com-video-to-gif-converter.gif?ex=68701f39&is=686ecdb9&hm=2f16ae15a628e6e826947d36e17b1af8cbdf10546c2133a01d7d152e53c78605&" width="900" height="900" />
 </div>
 
 ---
@@ -55,19 +52,17 @@
 <div align="center">
 
 ## 🛰️ GhostSec Live Dashboard
- MITRE ATT&CK visualizer, terminal CLI, and threat feed panel built using HTML/CSS/JS.
 
-<p align="center">
-  <a href="https://vvv-keys.github.io/vVv-Keys/" target="_blank">
-    <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/ghostsec-dashboard.png" height="400%" width="60%" alt="GhostSec Dashboard Preview" />
-  </a>
-<img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/404ghostsec.png" width="300" height="400" /></div>
-</p>
-<div align="center">
-<img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/ghostsec_cli_ttp_sim.gif" width="900" height="900" /></div>
+MITRE ATT&CK visualizer, terminal CLI, and threat feed panel built using HTML/CSS/JS.
 
+<a href="https://vvv-keys.github.io/vVv-Keys/" target="_blank">
+  <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/ghostsec-dashboard.png" height="400" width="60%" alt="GhostSec Dashboard Preview" />
+</a>
 
-</div> 
+<img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/404ghostsec.png" width="300" height="400" />
+<img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/ghostsec_cli_ttp_sim.gif" width="900" height="900" />
+
+</div>
 
 ---
 
