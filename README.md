@@ -101,13 +101,15 @@
 <img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions" />
 
 <br><br>
-### 📡 Threat Intelligence FeedS
+### 📡 Threat Intelligence
 <!-- 📡 Threat Intelligence Feeds -->
 <img src="https://img.shields.io/badge/VirusTotal-Scan%20Intel-blue?style=for-the-badge&logo=virustotal" />
 <img src="https://img.shields.io/badge/ThreatFox-Feed-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OTX-AlienVault-brightgreen?style=for-the-badge" />
 
-[![ThreatFox](https://img.shields.io/badge/Threat_Feed-ThreatFox-red?style=for-the-badge)](https://threatfox.abuse.ch/)  [![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-Check-yellow?style=for-the-badge)](https://abuseipdb.com/)[![AlienVault OTX](https://img.shields.io/badge/AlienVault_OTX-Live-green?style=for-the-badge)](https://otx.alienvault.com/)
+<br> 
+
+[![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-Check-yellow?style=for-the-badge)](https://abuseipdb.com/)    [![ThreatFox](https://img.shields.io/badge/Threat_Feed-ThreatFox-red?style=for-the-badge)](https://threatfox.abuse.ch/)[![AlienVault OTX](https://img.shields.io/badge/AlienVault_OTX-Live-green?style=for-the-badge)](https://otx.alienvault.com/)
 
 
 </div>
@@ -182,31 +184,11 @@ Reach out via GitHub or drop me a secure message.
 
 ---
 
-<div align="center">
-
-### 🛰️ Threat Feeds
-
-[![ThreatFox](https://img.shields.io/badge/Threat_Feed-ThreatFox-red?style=for-the-badge)](https://threatfox.abuse.ch/)  [![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-Check-yellow?style=for-the-badge)](https://abuseipdb.com/)[![AlienVault OTX](https://img.shields.io/badge/AlienVault_OTX-Live-green?style=for-the-badge)](https://otx.alienvault.com/)
-
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vVv-Keys&theme=radical&no-frame=true&no-bg=true&margin-w=8)](https://github.com/vVv-Keys)
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Keys's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vVv-Keys&show_icons=true&theme=radical&count_private=true)
-![Keys's Streak](https://streak-stats.demolab.com?user=vVv-Keys&theme=radical)
-![Keys's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vVv-Keys&layout=compact&theme=radical)
 
 </div>
 
