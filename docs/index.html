@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GhostSec Mini Dashboard</title>
+  <style>
+    body {
+      background-color: #0f1117;
+      font-family: 'Fira Code', monospace;
+      color: #00ffcc;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2rem;
+    }
+    .container {
+      max-width: 1100px;
+      padding: 2rem;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem;
+    }
+    .cli, .mitre, .mini-dashboard {
+      background-color: #1c1e26;
+      border-radius: 12px;
+      padding: 1.5rem;
+      box-shadow: 0 0 15px rgba(0,255,204,0.1);
+    }
+    .cli pre {
+      font-size: 1rem;
+      line-height: 1.5;
+      color: #00ff90;
+    }
+    .button {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.75rem 1.5rem;
+      background: #3674ff;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .mitre td {
+      width: 30px;
+      height: 30px;
+      text-align: center;
+      border: 1px solid #333;
+    }
+    .active { background-color: #ff4d4d; }
+    .inactive { background-color: #013220; }
+    .mini-dashboard ul {
+      list-style: none;
+      padding: 0;
+      color: #cfcfcf;
+    }
+    .mini-dashboard li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>🛰️ GhostSec CLI | MITRE Grid | Mini Dashboard</h1>
+  <div class="container">
+    <div class="cli">
+      <pre>
+&gt; keysguard --help
+Cybersecurity Specialist | Threat Hunter | Detection Engineer
+404 Labs // AI Enrichment // MITRE Simulations
+
+Usage:
+  🧠 ghostsec    [project] [--intel] [--train]
+  🎓 academy     Access KeysGuard
+  📡 feedscan    Pull latest IOC from ThreatFox
+      </pre>
+      <a href="#" class="button">Launch Mini Dashboard</a>
+    </div>
+
+    <div class="mitre">
+      <h3>MITRE ATT&CK ~ simulated</h3>
+      <table>
+        <tr>
+          <td class="inactive"></td>
+          <td class="active"></td>
+          <td class="inactive"></td>
+          <td class="active"></td>
+          <td class="inactive"></td>
+          <td class="inactive"></td>
+        </tr>
+        <tr>
+          <td class="active"></td>
+          <td class="inactive"></td>
+          <td class="active"></td>
+          <td class="inactive"></td>
+          <td class="inactive"></td>
+          <td class="inactive"></td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="mini-dashboard">
+      <h3>📊 Mini Dashboard</h3>
+      <ul>
+        <li>🐙 <strong>contributions.js</strong>: live 71</li>
+        <li>📡 <strong>Threat feed ping</strong>: OTX | TF</li>
+        <li>🧬 <strong>MITRE chain</strong>: last simulated</li>
+        <li>🎓 <strong>Academy progress</strong>: Offensive TTX</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
