@@ -22,7 +22,6 @@
 
 > 🛰️ *“Assume breach. Simulate smarter.”* 
 
-
 ---
 
 <div align="center">
@@ -69,16 +68,42 @@ graph LR
   D --> E[Phase 5: Threat Response Automation]
   E --> F[Phase 6: Community Feedback + Voting]
 ```
-🧩 Tools, Gists, and Micro-Labs
-- 🧪 Sigma + YARA Labs (Public-ready hunting templates)
-- 🐍 Python CTI Enrichers (Live enrichment plugins)
-- 📎 One-file PoCs
-- 📡 IOC Validators (Modular + webhook driven)
-- 🧠 Community Intelligence
-- 🌐 Feed	🔍 Source	🔗 Link
+---
 
-> You can access these inside the GhostSec dashboard with built-in AI commentary and MITRE tagging.
+## 🧩 Tools, Gists, and Micro-Labs
 
+- 🧪 [`Sigma + YARA Labs`](https://gist.github.com/vVv-Keys) *(Public-ready hunting templates)*
+- 🐍 [`Python CTI Enrichers`](https://github.com/vVv-Keys/KeysTools) *(Live enrichment plugins)*
+- 📎 [`One-file PoCs`](https://github.com/vVv-Keys/aishadow-malware-labs/tree/main/standalone-pocs)
+- 📡 [`IOC Validators`](https://github.com/vVv-Keys/404-CTI) *(Modular + webhook driven)*
+
+---
+<div align="center">
+
+## 🧠 Community Intelligence Feeds
+
+| 🌐 Feed | 🔍 Source | 🔗 Link |
+|--------|-----------|--------|
+| ThreatFox | Abuse.ch | [Visit](https://threatfox.abuse.ch/) |
+| AbuseIPDB | Reputation | [Visit](https://abuseipdb.com/) |
+| AlienVault OTX | CTI Sharing | [Visit](https://otx.alienvault.com/) |
+
+ 💡 *Access these within GhostSec Dashboard + MITRE Tagging + AI Commentary.*
+
+### 📡 Community Intelligence Feeds
+<!-- 📡 Threat Intelligence Feeds -->
+<img src="https://img.shields.io/badge/VirusTotal-Scan%20Intel-blue?style=for-the-badge&logo=virustotal" />
+<img src="https://img.shields.io/badge/ThreatFox-Feed-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OTX-AlienVault-brightgreen?style=for-the-badge" />
+<br>
+
+[![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-Check-yellow?style=for-the-badge)](https://abuseipdb.com/)    [![ThreatFox](https://img.shields.io/badge/Threat_Feed-ThreatFox-red?style=for-the-badge)](https://threatfox.abuse.ch/)[![AlienVault OTX](https://img.shields.io/badge/AlienVault_OTX-Live-green?style=for-the-badge)](https://otx.alienvault.com/)
+
+
+</div>
+
+---
+---
 
 <div align="center">
 
@@ -145,18 +170,6 @@ graph LR
 
 ---
 <br><br>
-### 📡 Threat Intelligence
-<!-- 📡 Threat Intelligence Feeds -->
-<img src="https://img.shields.io/badge/VirusTotal-Scan%20Intel-blue?style=for-the-badge&logo=virustotal" />
-<img src="https://img.shields.io/badge/ThreatFox-Feed-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OTX-AlienVault-brightgreen?style=for-the-badge" />
-<br> 
-
-[![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-Check-yellow?style=for-the-badge)](https://abuseipdb.com/)    [![ThreatFox](https://img.shields.io/badge/Threat_Feed-ThreatFox-red?style=for-the-badge)](https://threatfox.abuse.ch/)[![AlienVault OTX](https://img.shields.io/badge/AlienVault_OTX-Live-green?style=for-the-badge)](https://otx.alienvault.com/)
-
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -235,25 +248,7 @@ Reach out via GitHub or drop me a secure message.
 
 ---
 
-
-
-
-<div align="center">
-
-<img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="250" />
-
-<!-- 🛡️ Cybersecurity | 💰 Financial | 💼 Business Development -->
-<h3>🛡️ Cybersecurity &nbsp;&nbsp;|&nbsp;&nbsp; 💰 Financial &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Business Development</h3>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer)
-
-
-
-
 ⚡ *Pushing boundaries, one line of code at a time.*
-
-</div>
-
 
 ---
 
