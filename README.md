@@ -86,6 +86,7 @@ graph LR
 <div align="center">
 
 ## ⚙️ Skills / Experience / Free Resources / Projects 
+
 ### 🧠 Languages & Scripting
 <!-- 🧠 Languages & Scripting -->
 <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
@@ -101,6 +102,7 @@ graph LR
 <img src="https://img.shields.io/badge/SQL-StructuredQuery-blue?style=for-the-badge&logo=postgresql" />
 <img src="https://img.shields.io/badge/Assembly-x86_64-informational?style=for-the-badge" />
 
+---
 <br><br>
 ### 🖥️ Platforms & Systems
 <!-- 🖥️ Platforms & Systems -->
@@ -111,6 +113,7 @@ graph LR
 <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql" />
 <img src="https://img.shields.io/badge/Vercel-Hosting-000000?style=for-the-badge&logo=vercel" />
 
+---
 <br><br>
 ### 🔐 Security Modules
 <!-- 🔐 Security Domains -->
@@ -125,6 +128,7 @@ graph LR
 <img src="https://img.shields.io/badge/Adversary%20Emulation-APT-blueviolet?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Security%20Automation-Orchestration-lightgrey?style=for-the-badge" />
 
+---
 <br><br>
 ### ⚙️ Tool & Frameworks
  <!-- ⚙️ Tools & Frameworks --> 
@@ -142,13 +146,13 @@ graph LR
 <img src="https://img.shields.io/badge/OpenCTI-ThreatGraph-brightgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions" />
 
+---
 <br><br>
 ### 📡 Threat Intelligence
 <!-- 📡 Threat Intelligence Feeds -->
 <img src="https://img.shields.io/badge/VirusTotal-Scan%20Intel-blue?style=for-the-badge&logo=virustotal" />
 <img src="https://img.shields.io/badge/ThreatFox-Feed-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OTX-AlienVault-brightgreen?style=for-the-badge" />
-
 <br> 
 
 [![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-Check-yellow?style=for-the-badge)](https://abuseipdb.com/)    [![ThreatFox](https://img.shields.io/badge/Threat_Feed-ThreatFox-red?style=for-the-badge)](https://threatfox.abuse.ch/)[![AlienVault OTX](https://img.shields.io/badge/AlienVault_OTX-Live-green?style=for-the-badge)](https://otx.alienvault.com/)
