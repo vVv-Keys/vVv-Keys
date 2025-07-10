@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Architect • Adversary Emulation • Platform Engineer • CTI Strategist • Threat Modeler</strong><br>
-  <em>🧠 Always Building. Always Learning. Always Threat Modeling.</em>
+  <em>🧠 Always Building. Always Learning. Always.</em>
 </p>
 
 <div align="center">
