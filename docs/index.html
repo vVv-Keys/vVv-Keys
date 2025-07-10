@@ -114,3 +114,37 @@ Usage:
   </div>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GhostSec Mini Dashboard</title>
+  <link rel="stylesheet" href="dashboard.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="cli-box">
+      <div id="cli-output">> keysguard --help<br/></div>
+      <input id="cli-input" type="text" placeholder="Type a command like 'feedscan' and press Enter..." autofocus />
+    </div>
+
+    <div class="mitre-map">
+      <h3>MITRE ATT&CK (Simulated)</h3>
+      <div id="mitre-grid">
+        <!-- TTP Cells -->
+        <div class="ttp-cell" data-ttp="T1059.003">T1059.003</div>
+        <div class="ttp-cell" data-ttp="T1547.001">T1547.001</div>
+        <div class="ttp-cell" data-ttp="T1218.005">T1218.005</div>
+      </div>
+    </div>
+
+    <div class="mini-panel">
+      <h3>Mini Intelligence Panel</h3>
+      <div id="threat-status">[Waiting for CLI input]</div>
+    </div>
+  </div>
+  <script src="dashboard.js"></script>
+</body>
+</html>
