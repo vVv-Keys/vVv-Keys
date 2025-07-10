@@ -67,6 +67,7 @@ A secure red/purple team educational lab system, featuring adversary emulation, 
   <a href="https://vvv-keys.github.io/vVv-Keys/" target="_blank">
     <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/ghostsec-dashboard.png" height="400%" width="60%" alt="GhostSec Dashboard Preview" />
   </a>
+<img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/404ghostsec.png" width="300" height="400" /></div>
 </p>
 
 </div> 
