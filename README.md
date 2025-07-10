@@ -1,19 +1,31 @@
-<h1 align="center">🛡️ Keys | Cybersecurity | Financial | Business Development</h1>
-
-<p align="center">
-  <strong>Architect • Adversary Emulation • Platform Engineer • CTI Strategist • Threat Modeler</strong><br>
-  <em>🧠 Always Building. Always Learning. Always.</em>
-</p>
+---
 
 <div align="center">
-  <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" alt="KeysGuard Logo" width="250" />
+
+<img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="250" />
+
+<!-- 🛡️ Cybersecurity | 💰 Financial | 💼 Business Development -->
+<h3>🛡️ Cybersecurity &nbsp;&nbsp;|&nbsp;&nbsp; 💰 Financial &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Business Development</h3>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer)
+
+
 </div>
 
+
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer" alt="Typing Intro" />
-</div>
+
+## 🌐 Connect With Me
+
+[![Profile Views](https://komarev.com/ghpvc/?username=vVv-Keys&style=flat&color=16F2B3)](https://github.com/vVv-Keys)
+[![GitHub followers](https://img.shields.io/github/followers/vVv-Keys?label=Follow%20Me&style=social)](https://github.com/vVv-Keys)
+[![Discord](https://img.shields.io/badge/Discord-%40KeysGuard-%237289DA?style=flat&logo=discord)](https://discord.gg/zxAkGet7Qs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-VERCEL%20-5e0ce0?style=flat)](https://about-keys.vercel.app/)
 
 ---
+
+</div>
 
 ## 🧠 About Me
 
@@ -24,18 +36,6 @@
 
 > 🛰️ *“Assume breach. Simulate smarter.”* 
 
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Connect With Me
-[![Profile Views](https://komarev.com/ghpvc/?username=vVv-Keys&style=flat&color=16F2B3)](https://github.com/vVv-Keys)
-[![GitHub followers](https://img.shields.io/github/followers/vVv-Keys?label=Follow%20Me&style=social)](https://github.com/vVv-Keys)
-[![Discord](https://img.shields.io/badge/Discord-%40KeysGuard-%237289DA?style=flat&logo=discord)](https://discord.gg/zxAkGet7Qs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-VERCEL%20-5e0ce0?style=flat)](https://about-keys.vercel.app/)
 
 </div>
 
@@ -204,6 +204,21 @@ Reach out via GitHub or drop me a secure message.
 </div>
 
 ---
+
+
+
+
+<div align="center">
+
+<img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="250" />
+
+<!-- 🛡️ Cybersecurity | 💰 Financial | 💼 Business Development -->
+<h3>🛡️ Cybersecurity &nbsp;&nbsp;|&nbsp;&nbsp; 💰 Financial &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Business Development</h3>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer)
+
+
+
 
 ⚡ *Pushing boundaries, one line of code at a time.*
 
