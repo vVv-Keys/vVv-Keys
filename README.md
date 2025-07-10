@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://vvv-keys.github.io/vVv-Keys/" target="_blank">
-    <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/404-dashboard-ui.png" width="100%" alt="GhostSec Dashboard Preview" />
+    <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/ghostsec-dashboard.png" height="400%" width="60%" alt="GhostSec Dashboard Preview" />
   </a>
 </p>
 
