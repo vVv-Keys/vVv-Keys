@@ -98,8 +98,6 @@ graph LR
  💡 *Access these within GhostSec Dashboard + MITRE Tagging + AI Commentary.*
 <!-- 📡 Threat Intelligence Feeds -->
 <img src="https://img.shields.io/badge/VirusTotal-Scan%20Intel-blue?style=for-the-badge&logo=virustotal" />
-<img src="https://img.shields.io/badge/ThreatFox-Feed-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OTX-AlienVault-brightgreen?style=for-the-badge" />
 <br>
 
 [![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-Check-yellow?style=for-the-badge)](https://abuseipdb.com/)    [![ThreatFox](https://img.shields.io/badge/Threat_Feed-ThreatFox-red?style=for-the-badge)](https://threatfox.abuse.ch/)[![AlienVault OTX](https://img.shields.io/badge/AlienVault_OTX-Live-green?style=for-the-badge)](https://otx.alienvault.com/)
