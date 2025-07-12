@@ -56,10 +56,10 @@
 MITRE ATT&CK visualizer, terminal CLI, and threat feed panel built using HTML/CSS/JS.
 
 <a href="https://vvv-keys.github.io/vVv-Keys/" target="_blank">
-  <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/ghostsec-dashboard.png" height="700" width="550" alt="GhostSec Dashboard Preview" />
+  <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/ghostsec-dashboard.png" height="500" width="300" alt="GhostSec Dashboard Preview" />
 </a>
 
-<img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/404ghostsec.png" width="300" height="400" />
+<img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/404ghostsec.png" width="300" height="350" />
 <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/ghostsec_cli_ttp_sim.gif" width="900" height="900" />
 
 </div>
