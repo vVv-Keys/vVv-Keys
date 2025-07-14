@@ -49,20 +49,44 @@
 
 ---
 
-<div align="center">
-
 ## 🛰️ GhostSec Live Dashboard
 
 MITRE ATT&CK visualizer, terminal CLI, and threat feed panel built using HTML/CSS/JS.
 
-<a href="https://vvv-keys.github.io/vVv-Keys/" target="_blank">
-  <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/ghostsec-dashboard.png" height="500" width="300" alt="GhostSec Dashboard Preview" />
-</a>
-
-<img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/404ghostsec.png" width="300" height="350" />
-<img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/ghostsec_cli_ttp_sim.gif" width="900" height="900" />
-
-</div>
+<table align="center">
+  <tr>
+    <!-- Top‐row: two side-by-side images -->
+    <td align="center">
+      <a href="https://vvv-keys.github.io/vVv-Keys/" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/vVv-Keys/vVv-Keys/main/ghostsec-dashboard.png"
+          alt="GhostSec Dashboard Preview"
+          width="250"
+          style="height:auto;"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/vVv-Keys/vVv-Keys/main/404ghostsec.png"
+        alt="404 GhostSec Overlay"
+        width="250"
+        style="height:auto;"
+      />
+    </td>
+  </tr>
+  <tr>
+    <!-- Bottom‐row: one image spanning both columns -->
+    <td colspan="2" align="center">
+      <img
+        src="https://raw.githubusercontent.com/vVv-Keys/vVv-Keys/main/ghostsec_cli_ttp_sim.gif"
+        alt="GhostSec CLI TTP Simulation"
+        width="520"
+        style="height:auto;"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
