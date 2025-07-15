@@ -17,7 +17,7 @@
 
 <!-- 🧠 Logo & Focus Area -->
 <div align="center">
-  <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="250" alt="KeysGuard Logo"/>
+  <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="300" alt="KeysGuard Logo"/>
 
   <h3>
     🛡️ <strong>Cybersecurity</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -26,38 +26,6 @@
   </h3>
   
 ---
-<!-- 🎯 MITRE TTP CAROUSEL (STATIC + TOGGLE) -->
-<div align="center">
-  <details>
-    <summary><strong>🔍 Expand MITRE TTP Highlights</strong></summary>
-    <br>
-    <table>
-      <tr>
-        <td><img src="https://img.shields.io/badge/T1059.001-PowerShell-black?style=for-the-badge&logo=powershell" /></td>
-        <td><img src="https://img.shields.io/badge/T1218.010-MSHTA-yellow?style=for-the-badge" /></td>
-        <td><img src="https://img.shields.io/badge/T1105-Remote%20File%20Copy-red?style=for-the-badge" /></td>
-      </tr>
-      <tr>
-        <td><img src="https://img.shields.io/badge/T1548.002-AppInfo%20UAC-orange?style=for-the-badge" /></td>
-        <td><img src="https://img.shields.io/badge/T1055.012-Reflective%20DLL-green?style=for-the-badge" /></td>
-        <td><img src="https://img.shields.io/badge/T1566.001-Phishing%20Email-blue?style=for-the-badge" /></td>
-      </tr>
-    </table>
-  </details>
-</div>
-
----
-
-</div>
-
-<!-- 🔥 GIF/VIDEO SEPARATOR -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/khatabwedaa/personal-website/main/src/assets/gifs/bar-divider.gif" width="1400" height="10" />
-</div>
-<div align="center">
-  <img src="https://media.tenor.com/ab6DeHVRtqIAAAAd/neon-divider.gif" width="1000" height="6" />
-</div>
-
 <!-- 🛰️ LIVE SYSTEM STATUS (STATIC MOCKUP) -->
 <div align="center">
   <table>
@@ -87,6 +55,16 @@
       </tr>
     </table>
   </details>
+</div>
+
+</div>
+
+<!-- 🔥 GIF/VIDEO SEPARATOR -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/khatabwedaa/personal-website/main/src/assets/gifs/bar-divider.gif" width="1400" height="10" />
+</div>
+<div align="center">
+  <img src="https://media.tenor.com/ab6DeHVRtqIAAAAd/neon-divider.gif" width="1000" height="6" />
 </div>
 
 ---
