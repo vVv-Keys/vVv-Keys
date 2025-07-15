@@ -18,7 +18,6 @@
 <!-- 🧠 Logo & Focus Area -->
 <div align="center">
   <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="300" alt="KeysGuard Logo"/>
-
   <h3>
     🛡️ <strong>Cybersecurity</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
     💰 <strong>Finance</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -26,36 +25,6 @@
   </h3>
   
 ---
-<!-- 🛰️ LIVE SYSTEM STATUS (STATIC MOCKUP) -->
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/API-Live-brightgreen?style=for-the-badge&logo=vercel" /></td>
-      <td><img src="https://img.shields.io/badge/DB-Online-blue?style=for-the-badge&logo=postgresql" /></td>
-      <td><img src="https://img.shields.io/badge/DiscordBot-Connected-7289DA?style=for-the-badge&logo=discord" /></td>
-    </tr>
-  </table>
-</div>
-
-<!-- 🎯 MITRE TTP CAROUSEL (STATIC + TOGGLE) -->
-<div align="center">
-  <details>
-    <summary><strong>🔍 Expand MITRE TTP Highlights</strong></summary>
-    <br>
-    <table>
-      <tr>
-        <td><img src="https://img.shields.io/badge/T1059.001-PowerShell-black?style=for-the-badge&logo=powershell" /></td>
-        <td><img src="https://img.shields.io/badge/T1218.010-MSHTA-yellow?style=for-the-badge" /></td>
-        <td><img src="https://img.shields.io/badge/T1105-Remote%20File%20Copy-red?style=for-the-badge" /></td>
-      </tr>
-      <tr>
-        <td><img src="https://img.shields.io/badge/T1548.002-AppInfo%20UAC-orange?style=for-the-badge" /></td>
-        <td><img src="https://img.shields.io/badge/T1055.012-Reflective%20DLL-green?style=for-the-badge" /></td>
-        <td><img src="https://img.shields.io/badge/T1566.001-Phishing%20Email-blue?style=for-the-badge" /></td>
-      </tr>
-    </table>
-  </details>
-</div>
 
 </div>
 
@@ -195,7 +164,7 @@ Red/Purple team curriculum • Field-grade cyber ops modules
 
 <!-- 📆 ROADMAP PREVIEW -->
 
-🚀 LIVE SYSTEM STATUS (STATIC MOCKUP) -->
+🚀 LIVE SYSTEM STATUS 
 <div align="center">
   <table>
     <tr>
