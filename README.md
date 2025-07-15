@@ -8,7 +8,6 @@
   <a href="#🚀-featured-projects">🚀 Projects</a> •
   <a href="#🔐-private-projects-overview">🔐 Private</a> •
   <a href="#📬-want-to-collaborate">🤝 Contact</a>
-</div>
 
 ---
 <!-- 🧠 Logo & Focus Area -->
@@ -20,25 +19,40 @@
 <div align="center">
   <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="250" alt="KeysGuard Logo"/>
 
----
   <h3>
     🛡️ <strong>Cybersecurity</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
     💰 <strong>Finance</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
     💼 <strong>Business Development</strong>
   </h3>
-
-<!-- 🎛️ Animated Stack Ribbon (STATIC FAKE TICKER) -->
+  
+---
+<!-- 🎯 MITRE TTP CAROUSEL (STATIC + TOGGLE) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=200&color=5EFCD6&center=true&vCenter=true&multiline=true&repeat=true&width=1500&height=40&lines=Python%20%7C%20PowerShell%20%7C%20CTI%20%7C%20YARA%20%7C%20Sigma%20%7C%20MITRE%20%7C%20MalDev%20%7C%20Detection%20Engineering%20%7C%20Threat%20Emulation%20%7C%20Discord%20Bots%20%7C%20GhostSec+Infra" />
+  <details>
+    <summary><strong>🔍 Expand MITRE TTP Highlights</strong></summary>
+    <br>
+    <table>
+      <tr>
+        <td><img src="https://img.shields.io/badge/T1059.001-PowerShell-black?style=for-the-badge&logo=powershell" /></td>
+        <td><img src="https://img.shields.io/badge/T1218.010-MSHTA-yellow?style=for-the-badge" /></td>
+        <td><img src="https://img.shields.io/badge/T1105-Remote%20File%20Copy-red?style=for-the-badge" /></td>
+      </tr>
+      <tr>
+        <td><img src="https://img.shields.io/badge/T1548.002-AppInfo%20UAC-orange?style=for-the-badge" /></td>
+        <td><img src="https://img.shields.io/badge/T1055.012-Reflective%20DLL-green?style=for-the-badge" /></td>
+        <td><img src="https://img.shields.io/badge/T1566.001-Phishing%20Email-blue?style=for-the-badge" /></td>
+      </tr>
+    </table>
+  </details>
 </div>
 
 ---
 
 </div>
 
-<!-- 🔥 NEON SEPARATOR -->
+<!-- 🔥 GIF/VIDEO SEPARATOR -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khatabwedaa/personal-website/main/src/assets/gifs/bar-divider.gif" width="900" height="10" />
+  <img src="https://raw.githubusercontent.com/khatabwedaa/personal-website/main/src/assets/gifs/bar-divider.gif" width="1400" height="10" />
 </div>
 <div align="center">
   <img src="https://media.tenor.com/ab6DeHVRtqIAAAAd/neon-divider.gif" width="1000" height="6" />
@@ -74,19 +88,6 @@
     </table>
   </details>
 </div>
-
-<!-- 🔥 NEON SEPARATOR -->
-<div align="center">
-  <img src="https://media.tenor.com/ab6DeHVRtqIAAAAd/neon-divider.gif" width="1000" height="6" />
-</div>
-
-<!-- 🔥 NEON SEPARATOR -->
-<div align="center">
-  <img src="https://media.tenor.com/ab6DeHVRtqIAAAAd/neon-divider.gif" width="1000" height="6" />
-</div>
-
-<!-- 🧠 Logo & Focus Area -->
-<div align="center">
 
 ---
 
@@ -216,6 +217,80 @@ Red/Purple team curriculum • Field-grade cyber ops modules
 
 <!-- 📆 ROADMAP PREVIEW -->
 
+🚀 LIVE SYSTEM STATUS (STATIC MOCKUP) -->
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/API-Live-brightgreen?style=for-the-badge&logo=vercel" /></td>
+      <td><img src="https://img.shields.io/badge/DB-Online-blue?style=for-the-badge&logo=postgresql" /></td>
+      <td><img src="https://img.shields.io/badge/DiscordBot-Connected-7289DA?style=for-the-badge&logo=discord" /></td>
+    </tr>
+  </table>
+</div>
+
+<!-- 🔍 MITRE ATT&CK Technique Highlights -->
+<div align="center">
+  <h4>🕹️ MITRE ATT&CK TTP Highlights</h4>
+  <details>
+    <summary><strong>🔍 Expand MITRE TTP Highlights</strong></summary>
+    <br>
+    <table>
+      <tr>
+        <td><img src="https://img.shields.io/badge/T1059.001-PowerShell-black?style=for-the-badge&logo=powershell" /></td>
+        <td><img src="https://img.shields.io/badge/T1218.010-MSHTA-yellow?style=for-the-badge" /></td>
+        <td><img src="https://img.shields.io/badge/T1105-Remote%20File%20Copy-red?style=for-the-badge" /></td>
+      </tr>
+      <tr>
+        <td><img src="https://img.shields.io/badge/T1548.002-AppInfo%20UAC-orange?style=for-the-badge" /></td>
+        <td><img src="https://img.shields.io/badge/T1055.012-Reflective%20DLL-green?style=for-the-badge" /></td>
+        <td><img src="https://img.shields.io/badge/T1566.001-Phishing%20Email-blue?style=for-the-badge" /></td>
+      </tr>
+    </table>
+  </details>
+</div>
+
+<!-- 🎛️ Animated Stack Ribbon (STATIC FAKE TICKER) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=200&color=5EFCD6&center=true&vCenter=true&multiline=true&repeat=true&width=1300&height=40&lines=404n%20%7C%20%20%7C%20CTI%20Fusion%20%7C%20YARA%20%7C%20Sigma%20%7C%20MITRE%20%7C%20MalDev%20%7C%20Detection%20Engineering%20%7C%20Threat%20Emulation%20%7C%20Discord%20Bots%20%7C%20GhostSec+Infra" />
+</div>
+
+<!-- 🧩 PROJECT CARD SHOWCASE -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/vVv-Keys/KeysGuard">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=KeysGuard&theme=radical" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vVv-Keys/404-CTI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=404-CTI&theme=radical" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/vVv-Keys/AI-ML-Learning-Resource-Hub">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=AI-ML-Learning-Resource-Hub&theme=radical" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vVv-Keys/404-DiscoBOT">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=404-DiscoBOT&theme=radical" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- 🔥 NEON SEPARATOR -->
+<div align="center">
+  <img src="https://github.com/vVv-Keys/vVv-Keys/assets/placeholder/neon-divider-fixed.gif" width="1000" height="12" alt="Neon Line" />
+</div>
+
+<!-- 📆 ROADMAP PREVIEW -->
+
 ## 📆 Roadmap Preview
 
 ```mermaid
@@ -238,16 +313,41 @@ flowchart LR
 - 🌐: Let the community vote, validate, and contribute scoring intelligence.
 ```
 
+
+<!-- 💡 TOOLS AND MICROLABS -->
 <div align="center">
-
-| Tools | Gists | Micro-Labs |
-|--------|-----------|--------|
-| 🧪 [`Sigma + YARA Labs`](https://gist.github.com/vVv-Keys) | *(Public-ready hunting templates)* | X |
-| 🐍 [`Python CTI Enrichers`](https://github.com/vVv-Keys/KeysTools) | *(Live enrichment plugins)* | X |
-| 📎 [`One-file PoCs`](https://github.com/vVv-Keys/aishadow-malware-labs/tree/main/standalone-pocs) | *(Custom + Enhanced)* | X | 
-| 📡 [`IOC Validators`](https://github.com/vVv-Keys/404-CTI) | *(Modular + webhook driven)* | X |
+  <table width="100%">
+    <thead>
+      <tr>
+        <th>🔧 Tools</th>
+        <th>🧠 Gists</th>
+        <th>🧪 Micro-Labs</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>🧪 <a href="https://gist.github.com/vVv-Keys">Sigma + YARA Labs</a></td>
+        <td><em>Public-ready hunting templates</em></td>
+        <td align="center">✔️</td>
+      </tr>
+      <tr>
+        <td>🐍 <a href="https://github.com/vVv-Keys/KeysTools">Python CTI Enrichers</a></td>
+        <td><em>Live enrichment plugins</em></td>
+        <td align="center">✔️</td>
+      </tr>
+      <tr>
+        <td>📌 <a href="https://github.com/vVv-Keys/aishadow-malware-labs/tree/main/standalone-pocs">One-file PoCs</a></td>
+        <td><em>Custom + Enhanced</em></td>
+        <td align="center">✔️</td>
+      </tr>
+      <tr>
+        <td>🛁 <a href="https://github.com/vVv-Keys/404-CTI">IOC Validators</a></td>
+        <td><em>Modular + webhook driven</em></td>
+        <td align="center">✔️</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-
 
 </div>
 
