@@ -229,8 +229,8 @@ Red/Purple team curriculum • Field-grade cyber ops modules
     </td>
   </tr>
 </table>
-</div>
 
+</div>
 
 ## 📆 Roadmap Preview
 
@@ -245,9 +245,7 @@ flowchart LR
 
   A1 --> A2 --> A3 --> A4 --> A5 --> A6
 ```
-```markdown
-### 🗂 Phase Breakdown 🔍
-
+```
 - 📥:Ingest data from honeypots, CTI APIs, Discord feeds, etc. Normalize into structured IOCs/events.
 - 🔁:Route threat data via modular Discord bot ↔ webhook ↔ DB sync engine.
 - 🧠:Enrich and score threats using LLMs, NLP, and signature systems.
@@ -264,6 +262,7 @@ flowchart LR
 | 🐍 [`Python CTI Enrichers`](https://github.com/vVv-Keys/KeysTools) | *(Live enrichment plugins)* | X |
 | 📎 [`One-file PoCs`](https://github.com/vVv-Keys/aishadow-malware-labs/tree/main/standalone-pocs) | *(Custom + Enhanced)* | X | 
 | 📡 [`IOC Validators`](https://github.com/vVv-Keys/404-CTI) | *(Modular + webhook driven)* | X | 
+
 
 </div>
 
@@ -377,66 +376,34 @@ flowchart LR
 
 <div align="center">
   
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/vVv-Keys/KeysGuard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=KeysGuard&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/vVv-Keys/404-CTI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=404-CTI&theme=radical" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/vVv-Keys/404-DiscoBOT">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=404-DiscoBOT&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/vVv-Keys/KeysTools">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=KeysTools&theme=radical" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/vVv-Keys/aishadow-malware-labs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=aishadow-malware-labs&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/vVv-Keys/purple-threat-sim-campaign-001">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=purple-threat-sim-campaign-001&theme=radical" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/vVv-Keys/cyber-loveable-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=cyber-loveable-project&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/vVv-Keys/AI-ML-Learning-Resource-Hub">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=AI-ML-Learning-Resource-Hub&theme=radical" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/vVv-Keys/NTFS-Security-Descriptor-Analyzer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=NTFS-Security-Descriptor-Analyzer&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+<!-- 🧩 PROJECT CARD SHOWCASE -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/vVv-Keys/KeysGuard">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=KeysGuard&theme=radical" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vVv-Keys/404-CTI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=404-CTI&theme=radical" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/vVv-Keys/AI-ML-Learning-Resource-Hub">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=AI-ML-Learning-Resource-Hub&theme=radical" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vVv-Keys/404-DiscoBOT">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=404-DiscoBOT&theme=radical" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -446,8 +413,8 @@ flowchart LR
 </div>
 <div align="center">
 
-> 🚧 These are high-level summaries of internal projects built under **404Labs** / **KeysGuard Division**.  
-> 🔒 Access available upon vetted collaboration or request.
+> 🚧 These are high-level summaries of internal projects built under **404Labs** / **KeysGuard Division**. <
+> 🔒 Access available upon vetted collaboration or request. <
 
 </div>
 <div align="center">
