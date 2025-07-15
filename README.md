@@ -26,18 +26,6 @@
   
 ---
 
-</div>
-
-<!-- 🔥 GIF/VIDEO SEPARATOR -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/khatabwedaa/personal-website/main/src/assets/gifs/bar-divider.gif" width="1400" height="10" />
-</div>
-<div align="center">
-  <img src="https://media.tenor.com/ab6DeHVRtqIAAAAd/neon-divider.gif" width="1000" height="6" />
-</div>
-
----
-
 <div align="center">
 
 ## 🧠 About Me
@@ -50,8 +38,6 @@
 ⚙️ *Philosophy:* Always learning, always building — across code, systems, and adversary logic  
 
 > 🛰️ *“Assume breach. Simulate smarter.”*
-
----
 
 <div align="center">
 
@@ -198,7 +184,7 @@ Red/Purple team curriculum • Field-grade cyber ops modules
 
 <!-- 🎛️ Animated Stack Ribbon (STATIC FAKE TICKER) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=200&color=5EFCD6&center=true&vCenter=true&multiline=true&repeat=true&width=1300&height=40&lines=404n%20%7C%20%20%7C%20CTI%20Fusion%20%7C%20YARA%20%7C%20Sigma%20%7C%20MITRE%20%7C%20MalDev%20%7C%20Detection%20Engineering%20%7C%20Threat%20Emulation%20%7C%20Discord%20Bots%20%7C%20GhostSec+Infra" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=200&color=5EFCD6&center=true&vCenter=true&multiline=true&repeat=true&width=1500&height=40&lines=404%20%7C%20%20%7C%20CTI%20Fusion%20%7C%20YARA%20%7C%20Sigma%20%7C%20MITRE%20%7C%20MalDev%20%7C%20Detection%20Engineering%20%7C%20Threat%20Emulation%20%7C%20%20Bots%20%7C%20GhostSec+Infra" />
 </div>
 
 <!-- 🧩 PROJECT CARD SHOWCASE -->
