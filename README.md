@@ -325,10 +325,9 @@ flowchart LR
 
 </div>
 
-
-## 🚀 Featured Projects
-
 <div align="center">
+  
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -392,22 +391,59 @@ flowchart LR
 
 ## 🔐 Private Projects (Overview)
 
-> **Note**: Below are high-level overviews of private projects maintained internally under **404Labs** / **KeysGuard Division**. Access by request or through collaboration.
+> 🚧 These are high-level summaries of internal projects built under **404Labs** / **KeysGuard Division**.  
+> 🔒 Access available upon vetted collaboration or request.
 
-| Project Name | Description |
-|--------------|-------------|
-| `KeysGuard-CyberAcademy` | Internal training academy platform offering red/blue/purple team simulations and cybersecurity cert labs. |
-| `AI Architect Diagram` | Visual automation diagrams for complex AI threat detection and response systems. |
-| `404-INTELNET` | Distributed Threat Intel harvesting & enrichment system. |
-| `KeysGuard ThreatNet` | Federated cyber sensor network for real-time threat aggregation. |
-| `CyberNETICS-CTI` | Machine intelligence-driven CTI fusion engine. |
-| `ThreatScape-CTI` | Threat actor profiling, campaign analysis & CTI reporting automation. |
-| `404-GhostFrame` | Deception framework for adversary misdirection and honeynet management. |
-| `404-Dashboard` | Unified visualization dashboard across red/purple/CTI environments. |
-| `404-Cache` | Fast, ephemeral memory store for offensive engagements and TTPs. |
-| `404-Auth` | Internal authentication suite with multi-domain and federated ID support. |
-
-</div>
+<table>
+  <thead>
+    <tr>
+      <th align="left">🧠 Project</th>
+      <th align="left">📋 Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>KeysGuard-CyberAcademy</code></td>
+      <td>Training academy with Red/Blue/Purple simulations + cert lab pipelines.</td>
+    </tr>
+    <tr>
+      <td><code>AI Architect Diagram</code></td>
+      <td>Visual automation diagrams for complex AI-driven threat ops and response.</td>
+    </tr>
+    <tr>
+      <td><code>404-INTELNET</code></td>
+      <td>Federated threat intel harvesting and IOC enrichment system.</td>
+    </tr>
+    <tr>
+      <td><code>KeysGuard ThreatNet</code></td>
+      <td>Distributed cyber sensor mesh network for live threat aggregation.</td>
+    </tr>
+    <tr>
+      <td><code>CyberNETICS-CTI</code></td>
+      <td>ML-powered CTI engine with attacker logic chaining and signal fusion.</td>
+    </tr>
+    <tr>
+      <td><code>ThreatScape-CTI</code></td>
+      <td>Actor profiling, threat reporting automation, campaign clustering.</td>
+    </tr>
+    <tr>
+      <td><code>404-GhostFrame</code></td>
+      <td>Deception framework for honeynets, ghost signals, and adversary misdirection.</td>
+    </tr>
+    <tr>
+      <td><code>404-Dashboard</code></td>
+      <td>Unified visualization dashboard across Red/Purple/CTI modules.</td>
+    </tr>
+    <tr>
+      <td><code>404-Cache</code></td>
+      <td>Ephemeral memory store for TTPs, shell state, and operator sessions.</td>
+    </tr>
+    <tr>
+      <td><code>404-Auth</code></td>
+      <td>Federated auth system with multi-domain ID brokering and internal ACL layers.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
