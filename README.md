@@ -1,4 +1,4 @@
-<!-- 🔰 Hero Typing Banner -->
+<!-- 🧠 Logo & Focus Area -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer" alt="Typing SVG Banner">
 </div>
@@ -13,6 +13,63 @@
   </h3>
 
 </div>
+
+<!-- 🌐 PAGE OUTLINE NAVIGATION -->
+<div align="center">
+  <a href="#🧠-about-me">🧠 About</a> •
+  <a href="#🎯-currently-building">🛠️ Projects</a> •
+  <a href="#🛰️-mitre-att\&ck-visualizer">📡 Dashboard</a> •
+  <a href="#📆-roadmap-preview">📆 Roadmap</a> •
+  <a href="#🚀-featured-projects">🚀 Projects</a> •
+  <a href="#🔐-private-projects-overview">🔐 Private</a> •
+  <a href="#📬-want-to-collaborate">🤝 Contact</a>
+</div>
+
+<!-- 🔥 NEON SEPARATOR -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/khatabwedaa/personal-website/main/src/assets/gifs/bar-divider.gif" width="900" height="10" />
+</div>
+<div align="center">
+  <img src="https://media.tenor.com/ab6DeHVRtqIAAAAd/neon-divider.gif" width="1000" height="6" />
+</div>
+
+<!-- 🛰️ LIVE SYSTEM STATUS (STATIC MOCKUP) -->
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/API-Live-brightgreen?style=for-the-badge&logo=vercel" /></td>
+      <td><img src="https://img.shields.io/badge/DB-Online-blue?style=for-the-badge&logo=postgresql" /></td>
+      <td><img src="https://img.shields.io/badge/DiscordBot-Connected-7289DA?style=for-the-badge&logo=discord" /></td>
+    </tr>
+  </table>
+</div>
+
+<!-- 🎯 MITRE TTP CAROUSEL (STATIC DEMO) -->
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/T1059.001-PowerShell-black?style=for-the-badge&logo=powershell" /></td>
+      <td><img src="https://img.shields.io/badge/T1218.010-MSHTA-yellow?style=for-the-badge" /></td>
+      <td><img src="https://img.shields.io/badge/T1105-Remote%20File%20Copy-red?style=for-the-badge" /></td>
+    </tr>
+  </table>
+</div>
+
+<!-- 🧠 Logo & Focus Area -->
+<div align="center">
+
+<!-- 🔥 NEON SEPARATOR -->
+<div align="center">
+  <img src="https://media.tenor.com/ab6DeHVRtqIAAAAd/neon-divider.gif" width="1000" height="6" />
+</div>
+
+<!-- 🔥 NEON SEPARATOR -->
+<div align="center">
+  <img src="https://media.tenor.com/ab6DeHVRtqIAAAAd/neon-divider.gif" width="1000" height="6" />
+</div>
+
+<!-- 🧠 Logo & Focus Area -->
+<div align="center">
 
 ---
 
@@ -382,11 +439,18 @@ flowchart LR
 
 </div>
 
-## 🔐 Private Projects (Overview)
+<div align="center">
+
+## 🔐 Private Projects (Overview) 
+
+</div>
+<div align="center">
 
 > 🚧 These are high-level summaries of internal projects built under **404Labs** / **KeysGuard Division**.  
 > 🔒 Access available upon vetted collaboration or request.
 
+</div>
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -438,17 +502,22 @@ flowchart LR
   </tbody>
 </table>
 
+</div>
+
 ---
 
-## 📬 Want to Collaborate?
-
 <div align="center">
+
+## 📬 Want to Collaborate?
 
 💬 If you're working in **Cybersecurity**, **AI Fusion**, **Red/Purple Team Ops**, or **CTI Engineering** —  
 I'm open to **partnerships**, **collabs**, or secure repo access for aligned missions.
 
+</div>
+
 ---
 
+<div align="center">
 <a href="https://discord.gg/zxAkGet7Qs">
   <img src="https://img.shields.io/badge/Join%20My%20Discord-%40KeysGuard-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
