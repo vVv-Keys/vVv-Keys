@@ -10,26 +10,28 @@
   <a href="#📬-want-to-collaborate">🤝 Contact</a>
 
 ---
-<!-- 🧠 Logo & Focus Area -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1400&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer" alt="Typing SVG Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer" alt="Typing SVG Banner">
 </div>
 
-<!-- 🧠 Logo & Focus Area -->
 <div align="center">
-  <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="300" alt="KeysGuard Logo"/>
+  <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="400" alt="KeysGuard Logo"/>
+  
+---
+# 🧠 ABOUT ME:
+
+<!-- 🎛️ Animated Stack Ribbon (STATIC FAKE TICKER) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=200&color=5EFCD6&center=true&vCenter=true&multiline=true&repeat=true&width=1500&height=40&lines=404%20%20%7C%20CTI%20Fusion%20%7C%20YARA%20%7C%20Sigma%20%7C%20MITRE%20%7C%20MalDev%20%7C%20Detection%20Engineering%20%7C%20Threat%20Emulation%20%7C%20%20Bots%20%7C%20GhostSec+Infra" />
   <h3>
     🛡️ <strong>Cybersecurity</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
     💰 <strong>Finance</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
     💼 <strong>Business Development</strong>
   </h3>
-  
----
 
-<div align="center">
-
-## 🧠 About Me
 </div>
+
+---
 
 🛠️ **Toolsmith for Cybersecurity Simulation & Defense**  
 🔍 *Expertise:* Red Team Operations · Memory Forensics · Detection Engineering · CTI Pipelines  
@@ -178,10 +180,44 @@ Red/Purple team curriculum • Field-grade cyber ops modules
   </details>
 </div>
 
-<!-- 🎛️ Animated Stack Ribbon (STATIC FAKE TICKER) -->
+---
+
+<!-- 💡 TOOLS AND MICROLABS -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=200&color=5EFCD6&center=true&vCenter=true&multiline=true&repeat=true&width=1500&height=40&lines=404%20%20%7C%20CTI%20Fusion%20%7C%20YARA%20%7C%20Sigma%20%7C%20MITRE%20%7C%20MalDev%20%7C%20Detection%20Engineering%20%7C%20Threat%20Emulation%20%7C%20%20Bots%20%7C%20GhostSec+Infra" />
+  <table width="100%">
+    <thead>
+      <tr>
+        <th>🔧 Tools</th>
+        <th>🧠 Gists</th>
+        <th>🧪 Micro-Labs</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>🧪 <a href="https://gist.github.com/vVv-Keys">Sigma + YARA Labs</a></td>
+        <td><em>Public-ready hunting templates</em></td>
+        <td align="center">✔️</td>
+      </tr>
+      <tr>
+        <td>🐍 <a href="https://github.com/vVv-Keys/KeysTools">Python CTI Enrichers</a></td>
+        <td><em>Live enrichment plugins</em></td>
+        <td align="center">✔️</td>
+      </tr>
+      <tr>
+        <td>📌 <a href="https://github.com/vVv-Keys/aishadow-malware-labs/tree/main/standalone-pocs">One-file PoCs</a></td>
+        <td><em>Custom + Enhanced</em></td>
+        <td align="center">✔️</td>
+      </tr>
+      <tr>
+        <td>🛁 <a href="https://github.com/vVv-Keys/404-CTI">IOC Validators</a></td>
+        <td><em>Modular + webhook driven</em></td>
+        <td align="center">✔️</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+
+---
 
 <!-- 🧩 PROJECT CARD SHOWCASE -->
 <div align="center">
@@ -242,88 +278,9 @@ flowchart LR
 - 🌐: Let the community vote, validate, and contribute scoring intelligence.
 ```
 
-
-<!-- 💡 TOOLS AND MICROLABS -->
-<div align="center">
-  <table width="100%">
-    <thead>
-      <tr>
-        <th>🔧 Tools</th>
-        <th>🧠 Gists</th>
-        <th>🧪 Micro-Labs</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>🧪 <a href="https://gist.github.com/vVv-Keys">Sigma + YARA Labs</a></td>
-        <td><em>Public-ready hunting templates</em></td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td>🐍 <a href="https://github.com/vVv-Keys/KeysTools">Python CTI Enrichers</a></td>
-        <td><em>Live enrichment plugins</em></td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td>📌 <a href="https://github.com/vVv-Keys/aishadow-malware-labs/tree/main/standalone-pocs">One-file PoCs</a></td>
-        <td><em>Custom + Enhanced</em></td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td>🛁 <a href="https://github.com/vVv-Keys/404-CTI">IOC Validators</a></td>
-        <td><em>Modular + webhook driven</em></td>
-        <td align="center">✔️</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-</div>
-
 <div align="center">
 
 <br>
-
-<div align="center">
-
-## 🛰️ MITRE ATT&CK visualizer, terminal CLI, and threat feed panel built using HTML/CSS/JS.
-
-<table align="center">
-  <tr>
-    <!-- Top‐row: two side-by-side images -->
-    <td align="center">
-      <a href="https://vvv-keys.github.io/vVv-Keys/" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/vVv-Keys/vVv-Keys/main/ghostsec-dashboard.png"
-          alt="GhostSec Dashboard Preview"
-          width="250"
-          style="height:auto;"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <img
-        src="https://raw.githubusercontent.com/vVv-Keys/vVv-Keys/main/404ghostsec.png"
-        alt="404 GhostSec Overlay"
-        width="250"
-        style="height:auto;"
-      />
-    </td>
-  </tr>
-  <tr>
-    <!-- Bottom‐row: one image spanning both columns -->
-    <td colspan="2" align="center">
-      <img
-        src="https://raw.githubusercontent.com/vVv-Keys/vVv-Keys/main/ghostsec_cli_ttp_sim.gif"
-        alt="GhostSec CLI TTP Simulation"
-        width="520"
-        style="height:auto;"
-      />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 ## 🧠 Technical Arsenal
@@ -493,6 +450,48 @@ flowchart LR
 </div>
 
 ---
+<div align="center">
+
+## 🛰️ MITRE ATT&CK visualizer, terminal CLI, and threat feed panel built using HTML/CSS/JS.
+
+<table align="center">
+  <tr>
+    <!-- Top‐row: two side-by-side images -->
+    <td align="center">
+      <a href="https://vvv-keys.github.io/vVv-Keys/" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/vVv-Keys/vVv-Keys/main/ghostsec-dashboard.png"
+          alt="GhostSec Dashboard Preview"
+          width="250"
+          style="height:auto;"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/vVv-Keys/vVv-Keys/main/404ghostsec.png"
+        alt="404 GhostSec Overlay"
+        width="250"
+        style="height:auto;"
+      />
+    </td>
+  </tr>
+  <tr>
+    <!-- Bottom‐row: one image spanning both columns -->
+    <td colspan="2" align="center">
+      <img
+        src="https://raw.githubusercontent.com/vVv-Keys/vVv-Keys/main/ghostsec_cli_ttp_sim.gif"
+        alt="GhostSec CLI TTP Simulation"
+        width="520"
+        style="height:auto;"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+</div>
 
 <div align="center">
 
