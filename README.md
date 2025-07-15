@@ -38,14 +38,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%40KeysGuard-%237289DA?style=flat&logo=discord)](https://discord.gg/zxAkGet7Qs)
 [![Portfolio](https://img.shields.io/badge/Portfolio-VERCEL%20-5e0ce0?style=flat)](https://about-keys.vercel.app/)
 
-</div>
-
 ---
-
-<div align="center">
-  
-<img src="https://cdn.discordapp.com/attachments/1384863283516936232/1390425574731939850/20250702-0250-25.5331115-ezgif.com-video-to-gif-converter.gif?ex=68701f39&is=686ecdb9&hm=2f16ae15a628e6e826947d36e17b1af8cbdf10546c2133a01d7d152e53c78605&" width="900" height="900" />
-
 
 ## 🎯 Currently Building
 </div>
@@ -198,12 +191,12 @@ flowchart LR
 ```markdown
 ### 🗂 Phase Breakdown 🔍
 
-- **📥:** Ingest data from honeypots, CTI APIs, Discord feeds, etc. Normalize into structured IOCs/events.
-- **🔁:** Route threat data via modular Discord bot ↔ webhook ↔ DB sync engine.
-- **🧠:** Enrich and score threats using LLMs, NLP, and signature systems.
-- **📊:** Visualize intelligence via dashboards, MITRE overlays, and terminal interfaces.
-- **🤖:** Trigger responses with SIGMA rules, heuristics, or chained TTPs.
-- **🌐:** Let the community vote, validate, and contribute scoring intelligence.
+- 📥:Ingest data from honeypots, CTI APIs, Discord feeds, etc. Normalize into structured IOCs/events.
+- 🔁:Route threat data via modular Discord bot ↔ webhook ↔ DB sync engine.
+- 🧠:Enrich and score threats using LLMs, NLP, and signature systems.
+- 📊:*Visualize intelligence via dashboards, MITRE overlays, and terminal interfaces.
+- 🤖: Trigger responses with SIGMA rules, heuristics, or chained TTPs.
+- 🌐: Let the community vote, validate, and contribute scoring intelligence.
 ```
 
 <div align="center">
@@ -474,10 +467,13 @@ I'm open to **partnerships**, **collabs**, or secure repo access for aligned mis
 
 </div>
 
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vVv-Keys&theme=radical&no-frame=true&no-bg=true&margin-w=8)](https://github.com/vVv-Keys)
 
 </div>
+
+---
 
 <div align="center">
 
