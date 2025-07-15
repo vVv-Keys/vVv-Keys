@@ -449,15 +449,31 @@ flowchart LR
 
 ## 📬 Want to Collaborate?
 
-If you’re in the space of cybersecurity, AI fusion, red/purple team operations, or CTI platforms — I’m open to partnerships, collabs, or secure repo access upon serious inquiry.
+<div align="center">
 
-Reach out via GitHub or drop me a secure message.
+💬 If you're working in **Cybersecurity**, **AI Fusion**, **Red/Purple Team Ops**, or **CTI Engineering** —  
+I'm open to **partnerships**, **collabs**, or secure repo access for aligned missions.
 
 ---
 
-## 🏆 GitHub Trophies
+<a href="https://discord.gg/zxAkGet7Qs">
+  <img src="https://img.shields.io/badge/Join%20My%20Discord-%40KeysGuard-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
-<div align="center">
+<a href="https://github.com/vVv-Keys">
+  <img src="https://img.shields.io/badge/Visit%20My%20GitHub-vVv--Keys-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:keys@protonmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-black?style=for-the-badge&logo=protonmail" />
+</a>
+
+<a href="https://about-keys.vercel.app/contact" target="_blank">
+  <img src="https://img.shields.io/badge/Secure%20Contact%20Form-Via%20404Labs-16F2B3?style=for-the-badge&logo=vercel" />
+</a>
+
+</div>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vVv-Keys&theme=radical&no-frame=true&no-bg=true&margin-w=8)](https://github.com/vVv-Keys)
 
