@@ -329,36 +329,65 @@ flowchart LR
 ## 🚀 Featured Projects
 
 <div align="center">
-<a href="https://github.com/vVv-Keys/KeysGuard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=KeysGuard&theme=radical" />
-</a>
-<a href="https://github.com/vVv-Keys/404-CTI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=404-CTI&theme=radical" />
-</a>
-<a href="https://github.com/vVv-Keys/404-DiscoBOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=404-DiscoBOT&theme=radical" />
-</a>
-<a href="https://github.com/vVv-Keys/KeysTools">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=KeysTools&theme=radical" />
-</a>
-<a href="https://github.com/vVv-Keys/aishadow-malware-labs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=aishadow-malware-labs&theme=radical" />
-</a>
-<a href="https://github.com/vVv-Keys/purple-threat-sim-campaign-001">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=purple-threat-sim-campaign-001&theme=radical" />
-</a>
-<a href="https://github.com/vVv-Keys/cyber-loveable-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=cyber-loveable-project&theme=radical" />
-</a>
-<a href="https://github.com/vVv-Keys/AI-ML-Learning-Resource-Hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=AI-ML-Learning-Resource-Hub&theme=radical" />
-</a>
-<a href="https://github.com/vVv-Keys/NTFS-Security-Descriptor-Analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=NTFS-Security-Descriptor-Analyzer&theme=radical" />
-</a>
-<a href="https://github.com/vVv-Keys/atomic-red-team">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=atomic-red-team&theme=radical" />
-</a>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/vVv-Keys/KeysGuard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=KeysGuard&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vVv-Keys/404-CTI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=404-CTI&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vVv-Keys/404-DiscoBOT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=404-DiscoBOT&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vVv-Keys/KeysTools">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=KeysTools&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vVv-Keys/aishadow-malware-labs">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=aishadow-malware-labs&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vVv-Keys/purple-threat-sim-campaign-001">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=purple-threat-sim-campaign-001&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vVv-Keys/cyber-loveable-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=cyber-loveable-project&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vVv-Keys/AI-ML-Learning-Resource-Hub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=AI-ML-Learning-Resource-Hub&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/vVv-Keys/NTFS-Security-Descriptor-Analyzer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=NTFS-Security-Descriptor-Analyzer&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ## 🔐 Private Projects (Overview)
