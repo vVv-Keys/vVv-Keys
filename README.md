@@ -1,6 +1,21 @@
+<!-- 🌐 PAGE OUTLINE NAVIGATION -->
+<div align="center">
+  <a href="#🧠-about-me">🧠 About</a> •
+  <a href="#🎯-currently-building">🛠️ Projects</a> •
+  <a href="#🛰️-mitre-att\&ck-visualizer">📡 Dashboard</a> •
+  <a href="#📆-roadmap-preview">📆 Roadmap</a> •
+  <a href="#🚀-featured-projects">🚀 Projects</a> •
+  <a href="#🔐-private-projects-overview">🔐 Private</a> •
+  <a href="#📬-want-to-collaborate">🤝 Contact</a>
+</div>
+
+---
+
+<br>
+
 <!-- 🧠 Logo & Focus Area -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer" alt="Typing SVG Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer" alt="Typing SVG Banner">
 </div>
 
 <!-- 🧠 Logo & Focus Area -->
@@ -12,17 +27,6 @@
     💼 <strong>Business Development</strong>
   </h3>
 
-</div>
-
-<!-- 🌐 PAGE OUTLINE NAVIGATION -->
-<div align="center">
-  <a href="#🧠-about-me">🧠 About</a> •
-  <a href="#🎯-currently-building">🛠️ Projects</a> •
-  <a href="#🛰️-mitre-att\&ck-visualizer">📡 Dashboard</a> •
-  <a href="#📆-roadmap-preview">📆 Roadmap</a> •
-  <a href="#🚀-featured-projects">🚀 Projects</a> •
-  <a href="#🔐-private-projects-overview">🔐 Private</a> •
-  <a href="#📬-want-to-collaborate">🤝 Contact</a>
 </div>
 
 <!-- 🔥 NEON SEPARATOR -->
@@ -44,15 +48,31 @@
   </table>
 </div>
 
-<!-- 🎯 MITRE TTP CAROUSEL (STATIC DEMO) -->
+<!-- 🎯 MITRE TTP CAROUSEL (STATIC + TOGGLE) -->
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/T1059.001-PowerShell-black?style=for-the-badge&logo=powershell" /></td>
-      <td><img src="https://img.shields.io/badge/T1218.010-MSHTA-yellow?style=for-the-badge" /></td>
-      <td><img src="https://img.shields.io/badge/T1105-Remote%20File%20Copy-red?style=for-the-badge" /></td>
-    </tr>
-  </table>
+  <details>
+    <summary><strong>🔍 Expand MITRE TTP Highlights</strong></summary>
+    <br>
+    <table>
+      <tr>
+        <td><img src="https://img.shields.io/badge/T1059.001-PowerShell-black?style=for-the-badge&logo=powershell" /></td>
+        <td><img src="https://img.shields.io/badge/T1218.010-MSHTA-yellow?style=for-the-badge" /></td>
+        <td><img src="https://img.shields.io/badge/T1105-Remote%20File%20Copy-red?style=for-the-badge" /></td>
+      </tr>
+      <tr>
+        <td><img src="https://img.shields.io/badge/T1548.002-AppInfo%20UAC-orange?style=for-the-badge" /></td>
+        <td><img src="https://img.shields.io/badge/T1055.012-Reflective%20DLL-green?style=for-the-badge" /></td>
+        <td><img src="https://img.shields.io/badge/T1566.001-Phishing%20Email-blue?style=for-the-badge" /></td>
+      </tr>
+    </table>
+  </details>
+</div>
+
+<!-- 🧠 Logo & Focus Area -->
+
+<!-- 🎛️ Animated Stack Ribbon (STATIC FAKE TICKER) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=200&color=5EFCD6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=40&lines=Python%20%7C%20PowerShell%20%7C%20CTI%20Fusion%20%7C%20YARA%20%7C%20Sigma%20%7C%20MITRE%20%7C%20MalDev%20%7C%20Detection%20Engineering%20%7C%20Threat%20Emulation%20%7C%20Discord%20Bots%20%7C%20GhostSec+Infra" />
 </div>
 
 <!-- 🧠 Logo & Focus Area -->
