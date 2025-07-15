@@ -1,10 +1,16 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer)
-
+<!-- 🔰 Hero Typing Banner -->
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer" alt="Typing SVG Banner">
+</div>
 
-<img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="250" />
-
-<h3>🛡️ Cybersecurity &nbsp;&nbsp;|&nbsp;&nbsp; 💰 Finance &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Business Development</h3>
+<!-- 🧠 Logo & Focus Area -->
+<div align="center">
+  <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="250" alt="KeysGuard Logo"/>
+  <h3>
+    🛡️ <strong>Cybersecurity</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
+    💰 <strong>Finance</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
+    💼 <strong>Business Development</strong>
+  </h3>
 
 </div>
 
@@ -12,11 +18,11 @@
 
 ## 🧠 About Me
 
-🛠️ **Builder of tools to break, learn, and defend**  
-🔎 *Red Team Ops | Memory Forensics | SIGMA Detection Engineering | CTI pipelines*  
-📊 *Offensive R&D meets Threat Simulation*  
-🚀 *Projects: KeysGuard, CyberNetics, AIShadow, more...*  
-⚙️ *Constantly learning new languages, techniques, methods, implementations + more*
+🛠️ **Toolsmith for Cybersecurity Simulation & Defense**  
+🔍 *Expertise:* Red Team Operations · Memory Forensics · Detection Engineering · CTI Pipelines  
+📊 *Approach:* Offensive R&D meets Threat Simulation and Detection Strategy  
+🚀 *Projects:* `KeysGuard`, `CyberNetics`, `AIShadow`, and more  
+⚙️ *Philosophy:* Always learning, always building — across code, systems, and adversary logic  
 
 > 🛰️ *“Assume breach. Simulate smarter.”*
 
@@ -41,17 +47,101 @@
 
 ## 🎯 Currently Building
 
-- 🛰️ **GhostSec Intelligence Dashboard** – MITRE-mapped alerts, TTPs, and live heatmaps  
-- 🧠 **Quantum Threat Fusion Engine** – AI-assisted threat scoring + attacker chaining  
-- 🔁 **Discord ↔ Webhook ↔ DB Routing System** – real-time threat enrichment and routing  
-- 🧩 **Modular deception framework** – Honeytokens, GhostFrames, and campaign visualizers  
-- 📚 **KeysGuard Academy** – open red/purple team training modules under 404 Labs  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+### 🛰️ GhostSec Intelligence Dashboard
+- MITRE-mapped alerts  
+- TTP tagging engine  
+- Live threat heatmaps  
+
+**_Purpose:_** Tactical SOC dashboard for red/purple ops.  
+
+<details><summary><b>📦 Status</b></summary>
+
+- [x] TTP Mapping Engine  
+- [x] MITRE Layer Integration  
+- [ ] Live Threat Heatmap Panel  
+- [ ] AI Recommendation Module  
+
+</details>
+
+</td>
+    <td valign="top" width="50%">
+      
+### 🧠 Quantum Threat Fusion Engine
+- AI threat scoring  
+- TTP → Actor chaining  
+- CTI graph modeling  
+
+**_Purpose:_** Contextual threat actor analysis via enrichment pipelines.  
+
+<details><summary><b>📦 Status</b></summary>
+
+- [x] IOC Normalizer  
+- [x] NLP Entity Extractor  
+- [ ] Graph Relationship Mapper  
+- [ ] Analyst Dashboard  
+
+</details>
+
+</td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🔁 Discord ↔ Webhook ↔ DB System
+- Real-time IOC enrichment  
+- Modular routing engine  
+- API/Webhook ↔ DB sync  
+
+**_Purpose:_** Cross-platform comms layer for CTI and detection systems.  
+
+<details><summary><b>📦 Status</b></summary>
+
+- [x] Discord Bot Engine  
+- [x] Webhook ↔ Router Logic  
+- [ ] DB Event Sync Layer  
+- [ ] Audit Logging Panel  
+
+</details>
+
+</td>
+    <td valign="top" width="50%">
+
+### 🧩 Modular Deception Framework
+- GhostFrames + Honeytokens  
+- Campaign visualizer tooling  
+- Sensor-based telemetry  
+
+**_Purpose:_** Deception ops infrastructure for adversary misdirection.  
+
+<details><summary><b>📦 Status</b></summary>
+
+- [x] GhostFrame Dropper  
+- [x] Honeytoken Generator  
+- [ ] Campaign Visualizer  
+- [ ] Alerting Correlation Layer  
+
+</details>
+
+</td>
+  </tr>
+</table>
+
+<div align="center">
+
+### 📚 KeysGuard Academy  
+Red/Purple team curriculum • Field-grade cyber ops modules  
+<sub><i>Purpose: Open-access tactical training under 404Labs.</i></sub>
+
+</div>
 
 ---
+<div align="center">
 
-## 🛰️ GhostSec Live Dashboard
-
-MITRE ATT&CK visualizer, terminal CLI, and threat feed panel built using HTML/CSS/JS.
+## 🛰️ MITRE ATT&CK visualizer, terminal CLI, and threat feed panel built using HTML/CSS/JS.
 
 <table align="center">
   <tr>
@@ -87,20 +177,45 @@ MITRE ATT&CK visualizer, terminal CLI, and threat feed panel built using HTML/CS
     </td>
   </tr>
 </table>
+</div>
 
----
 
 ## 📆 Roadmap Preview
 
 ```mermaid
-graph LR
-  A[Phase 1: Collection Engine] --> B[Phase 2: Discord Feed System]
-  B --> C[Phase 3: AI Enrichment & Scoring]
-  C --> D[Phase 4: Dashboard Intelligence Sync]
-  D --> E[Phase 5: Threat Response Automation]
-  E --> F[Phase 6: Community Feedback + Voting]
+flowchart LR
+  A1([📥 Phase 1: Collection Engine])
+  A2([🔁 Phase 2: Discord Feed System])
+  A3([🧠 Phase 3: AI Enrichment & Scoring])
+  A4([📊 Phase 4: Dashboard Intelligence Sync])
+  A5([🤖 Phase 5: Threat Response Automation])
+  A6([🌐 Phase 6: Community Feedback + Voting])
+
+  A1 --> A2 --> A3 --> A4 --> A5 --> A6
 ```
----
+```
+### 🔍 Logical Phase Breakdown
+
+| Phase | Description |
+|-------|-------------|
+| **Phase 1: Collection Engine** | Ingests threat data from various sources and normalizes them for processing |
+| **Phase 2: Discord Feed System** | Routes live threat signals from Discord CTI bots into your enrichment systems |
+| **Phase 3: AI Enrichment & Scoring** | LLM, NLP, and ML-based correlation adds context, scoring, and actor mapping |
+| **Phase 4: Dashboard Sync** | Outputs context into interactive dashboards + CLI with MITRE alignment |
+| **Phase 5: Response Automation** | Converts signals into real-world alerts and automated defensive actions |
+| **Phase 6: Community Feedback Loop** | Ties users back into the system for voting, validating, and training CTI scoring models |
+```
+
+```markdown
+### 🗂 Phase Breakdown
+
+- **📥:** Ingest data from honeypots, CTI APIs, Discord feeds, etc. Normalize into structured IOCs/events.
+- **🔁:** Route threat data via modular Discord bot ↔ webhook ↔ DB sync engine.
+- **🧠:** Enrich and score threats using LLMs, NLP, and signature systems.
+- **📊:** Visualize intelligence via dashboards, MITRE overlays, and terminal interfaces.
+- **🤖:** Trigger responses with SIGMA rules, heuristics, or chained TTPs.
+- **🌐:** Let the community vote, validate, and contribute scoring intelligence.
+```
 
 <div align="center">
 
@@ -113,82 +228,112 @@ graph LR
 
 </div>
 
----
-
 <div align="center">
 
-## 🧠 Community Intelligence Feeds
+💡 <i>Available in GhostSec Dashboard with MITRE Tagging + AI Commentary</i>
 
- 💡 *Access these within GhostSec Dashboard + MITRE Tagging + AI Commentary.*
-<!-- 📡 Threat Intelligence Feeds -->
-<img src="https://img.shields.io/badge/VirusTotal-Scan%20Intel-blue?style=for-the-badge&logo=virustotal" />
-<br>
+<!-- Threat Feed Badges -->
+<a href="https://www.virustotal.com/" target="_blank">
+  <img src="https://img.shields.io/badge/VirusTotal-Scan%20Intel-blue?style=for-the-badge&logo=virustotal" />
+</a>
 
-[![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-Check-yellow?style=for-the-badge)](https://abuseipdb.com/)    [![ThreatFox](https://img.shields.io/badge/Threat_Feed-ThreatFox-red?style=for-the-badge)](https://threatfox.abuse.ch/)[![AlienVault OTX](https://img.shields.io/badge/AlienVault_OTX-Live-green?style=for-the-badge)](https://otx.alienvault.com/)
+<a href="https://abuseipdb.com/" target="_blank">
+  <img src="https://img.shields.io/badge/AbuseIPDB-Check-yellow?style=for-the-badge" />
+</a>
+
+<a href="https://threatfox.abuse.ch/" target="_blank">
+  <img src="https://img.shields.io/badge/Threat_Feed-ThreatFox-red?style=for-the-badge" />
+</a>
+
+<a href="https://otx.alienvault.com/" target="_blank">
+  <img src="https://img.shields.io/badge/AlienVault_OTX-Live-green?style=for-the-badge" />
+</a>
 
 </div>
 
+
 ---
 
 <div align="center">
 
-### 🧠 Languages & Scripting
-<!-- 🧠 Languages & Scripting -->
-<img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/PowerShell-Core-5391FE?style=for-the-badge&logo=powershell" />
-<img src="https://img.shields.io/badge/Bash-Scripting-black?style=for-the-badge&logo=gnu-bash" />
-<img src="https://img.shields.io/badge/Go-Golang-00ADD8?style=for-the-badge&logo=go" />
-<img src="https://img.shields.io/badge/C-red?style=for-the-badge&logo=c" />
-<img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/C-C99-red?style=for-the-badge&logo=c" />
-<img src="https://img.shields.io/badge/CSharp-.NET-purple?style=for-the-badge&logo=csharp" /> 
-<img src="https://img.shields.io/badge/JavaScript-Node.js-yellow?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/Rust-🦀-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQL-StructuredQuery-blue?style=for-the-badge&logo=postgresql" />
-<img src="https://img.shields.io/badge/Assembly-x86_64-informational?style=for-the-badge" />
+## 🧠 Technical Arsenal
 
-<br><br>
-### 🖥️ Platforms & Systems
-<!-- 🖥️ Platforms & Systems -->
-<img src="https://img.shields.io/badge/Linux-Systems-black?style=for-the-badge&logo=linux" />
-<img src="https://img.shields.io/badge/Windows-BlueTeam-blue?style=for-the-badge&logo=windows" />
-<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker" />
-<img src="https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=for-the-badge&logo=supabase" />
-<img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql" />
-<img src="https://img.shields.io/badge/Vercel-Hosting-000000?style=for-the-badge&logo=vercel" />
+<details open>
+<summary><strong>🧾 Languages & Scripting</strong></summary>
 
-<br><br>
-### 🔐 Security Modules
-<!-- 🔐 Security Domains -->
-<img src="https://img.shields.io/badge/Offensive%20Tooling-Red%20Team-critical?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Malware%20Development-Reverse%20Engineering-darkred?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Purple%20Team-Infrastructure-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Threat%20Hunting-cyan?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Detection%20Engineering-gold?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Memory%20Forensics-gray?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Enrichment-ML-magenta?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Threat%20Intelligence-CTI-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Adversary%20Emulation-APT-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Security%20Automation-Orchestration-lightgrey?style=for-the-badge" />
+<p align="center">
 
-<br><br>
-### ⚙️ Tool & Frameworks
- <!-- ⚙️ Tools & Frameworks --> 
-<img src="https://img.shields.io/badge/ELK%20Stack-Log%20Analysis-darkblue?style=for-the-badge&logo=elasticstack" />
-<img src="https://img.shields.io/badge/SIGMA-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/YARA-teal?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SIGMA-Detection-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MISP-Threat%20Sharing-red?style=for-the-badge&logo=misp" />
-<img src="https://img.shields.io/badge/YARA-Rules-teal?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-TTP%20Mapping-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RedELK-Red%20Team%20SIEM-critical?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Velociraptor-DFIR-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Sliver-C2-lightgray?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Caldera-Automation-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenCTI-ThreatGraph-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions" />
+<img src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/PowerShell-Core-5391FE?style=flat-square&logo=powershell" />
+<img src="https://img.shields.io/badge/Bash-Scripting-black?style=flat-square&logo=gnu-bash" />
+<img src="https://img.shields.io/badge/Go-Golang-00ADD8?style=flat-square&logo=go" />
+<img src="https://img.shields.io/badge/C-red?style=flat-square&logo=c" />
+<img src="https://img.shields.io/badge/C%23-.NET-purple?style=flat-square&logo=csharp" />
+<img src="https://img.shields.io/badge/JavaScript-Node.js-yellow?style=flat-square&logo=javascript" />
+<img src="https://img.shields.io/badge/Rust-🦀-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/SQL-PostgreSQL-blue?style=flat-square&logo=postgresql" />
+<img src="https://img.shields.io/badge/Assembly-x86_64-informational?style=flat-square" />
 
-<br><br>
+</p>
+</details>
+
+<details open>
+<summary><strong>🖥️ Platforms & Infrastructure</strong></summary>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-Systems-black?style=flat-square&logo=linux" />
+<img src="https://img.shields.io/badge/Windows-BlueTeam-blue?style=flat-square&logo=windows" />
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker" />
+<img src="https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase" />
+<img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql" />
+<img src="https://img.shields.io/badge/Vercel-Hosting-000000?style=flat-square&logo=vercel" />
+
+</p>
+</details>
+
+<details open>
+<summary><strong>🔐 Security Disciplines</strong></summary>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Offensive%20Tooling-Red%20Team-critical?style=flat-square" />
+<img src="https://img.shields.io/badge/Malware%20Development-Reverse%20Engineering-darkred?style=flat-square" />
+<img src="https://img.shields.io/badge/Purple%20Team-Infrastructure-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Threat%20Hunting-cyan?style=flat-square" />
+<img src="https://img.shields.io/badge/Detection%20Engineering-gold?style=flat-square" />
+<img src="https://img.shields.io/badge/Memory%20Forensics-gray?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Enrichment-ML-magenta?style=flat-square" />
+<img src="https://img.shields.io/badge/Threat%20Intelligence-CTI-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/Adversary%20Emulation-APT-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/Security%20Automation-Orchestration-lightgrey?style=flat-square" />
+
+</p>
+</details>
+
+<details open>
+<summary><strong>⚙️ Tools & Frameworks</strong></summary>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ELK%20Stack-Log%20Analysis-darkblue?style=flat-square&logo=elasticstack" />
+<img src="https://img.shields.io/badge/SIGMA-Detection-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/YARA-Rules-teal?style=flat-square" />
+<img src="https://img.shields.io/badge/MISP-Threat%20Sharing-red?style=flat-square&logo=misp" />
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-TTP%20Mapping-red?style=flat-square" />
+<img src="https://img.shields.io/badge/RedELK-Red%20Team%20SIEM-critical?style=flat-square" />
+<img src="https://img.shields.io/badge/Velociraptor-DFIR-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Sliver-C2-lightgray?style=flat-square" />
+<img src="https://img.shields.io/badge/Caldera-Automation-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenCTI-ThreatGraph-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?style=flat-square&logo=github-actions" />
+
+</p>
+</details>
+
+
+</div>
+
 
 ## 🚀 Featured Projects
 
