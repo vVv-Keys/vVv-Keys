@@ -193,21 +193,8 @@ flowchart LR
 
   A1 --> A2 --> A3 --> A4 --> A5 --> A6
 ```
-```
-### 🔍 Logical Phase Breakdown
-
-| Phase | Description |
-|-------|-------------|
-| **Phase 1: Collection Engine** | Ingests threat data from various sources and normalizes them for processing |
-| **Phase 2: Discord Feed System** | Routes live threat signals from Discord CTI bots into your enrichment systems |
-| **Phase 3: AI Enrichment & Scoring** | LLM, NLP, and ML-based correlation adds context, scoring, and actor mapping |
-| **Phase 4: Dashboard Sync** | Outputs context into interactive dashboards + CLI with MITRE alignment |
-| **Phase 5: Response Automation** | Converts signals into real-world alerts and automated defensive actions |
-| **Phase 6: Community Feedback Loop** | Ties users back into the system for voting, validating, and training CTI scoring models |
-```
-
 ```markdown
-### 🗂 Phase Breakdown
+### 🗂 Phase Breakdown 🔍
 
 - **📥:** Ingest data from honeypots, CTI APIs, Discord feeds, etc. Normalize into structured IOCs/events.
 - **🔁:** Route threat data via modular Discord bot ↔ webhook ↔ DB sync engine.
@@ -230,6 +217,11 @@ flowchart LR
 
 <div align="center">
 
+<br>
+
+---
+## 🧠 Technical Arsenal
+
 💡 <i>Available in GhostSec Dashboard with MITRE Tagging + AI Commentary</i>
 
 <!-- Threat Feed Badges -->
@@ -251,12 +243,9 @@ flowchart LR
 
 </div>
 
-
----
-
 <div align="center">
 
-## 🧠 Technical Arsenal
+--- 
 
 <details open>
 <summary><strong>🧾 Languages & Scripting</strong></summary>
