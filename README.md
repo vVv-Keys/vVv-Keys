@@ -1,3 +1,4 @@
+---
 <!-- 🌐 PAGE OUTLINE NAVIGATION -->
 <div align="center">
   <a href="#🧠-about-me">🧠 About</a> •
@@ -10,22 +11,28 @@
 </div>
 
 ---
-
-<br>
-
 <!-- 🧠 Logo & Focus Area -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer" alt="Typing SVG Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=16F2B3&center=true&vCenter=true&multiline=true&repeat=false&width=1400&height=100&lines=Hey+there%2C+I%E2%80%99m+Keys.;Cybersecurity+Builder+%7C+Threat+Hunter+%7C+Detection+Engineer" alt="Typing SVG Banner">
 </div>
 
 <!-- 🧠 Logo & Focus Area -->
 <div align="center">
   <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="250" alt="KeysGuard Logo"/>
+
+---
   <h3>
     🛡️ <strong>Cybersecurity</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
     💰 <strong>Finance</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
     💼 <strong>Business Development</strong>
   </h3>
+
+<!-- 🎛️ Animated Stack Ribbon (STATIC FAKE TICKER) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=200&color=5EFCD6&center=true&vCenter=true&multiline=true&repeat=true&width=1500&height=40&lines=Python%20%7C%20PowerShell%20%7C%20CTI%20%7C%20YARA%20%7C%20Sigma%20%7C%20MITRE%20%7C%20MalDev%20%7C%20Detection%20Engineering%20%7C%20Threat%20Emulation%20%7C%20Discord%20Bots%20%7C%20GhostSec+Infra" />
+</div>
+
+---
 
 </div>
 
@@ -67,16 +74,6 @@
     </table>
   </details>
 </div>
-
-<!-- 🧠 Logo & Focus Area -->
-
-<!-- 🎛️ Animated Stack Ribbon (STATIC FAKE TICKER) -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=200&color=5EFCD6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=40&lines=Python%20%7C%20PowerShell%20%7C%20CTI%20Fusion%20%7C%20YARA%20%7C%20Sigma%20%7C%20MITRE%20%7C%20MalDev%20%7C%20Detection%20Engineering%20%7C%20Threat%20Emulation%20%7C%20Discord%20Bots%20%7C%20GhostSec+Infra" />
-</div>
-
-<!-- 🧠 Logo & Focus Area -->
-<div align="center">
 
 <!-- 🔥 NEON SEPARATOR -->
 <div align="center">
@@ -211,6 +208,53 @@ Red/Purple team curriculum • Field-grade cyber ops modules
 </div>
 
 ---
+
+<!-- 🔥 NEON SEPARATOR -->
+<div align="center">
+  <img src="https://github.com/vVv-Keys/vVv-Keys/assets/placeholder/neon-divider-fixed.gif" width="1000" height="12" alt="Neon Line" />
+</div>
+
+<!-- 📆 ROADMAP PREVIEW -->
+
+## 📆 Roadmap Preview
+
+```mermaid
+flowchart LR
+  A1([📥 Phase 1: Collection Engine])
+  A2([🔁 Phase 2: Discord Feed System])
+  A3([🧠 Phase 3: AI Enrichment & Scoring])
+  A4([📊 Phase 4: Dashboard Intelligence Sync])
+  A5([🤖 Phase 5: Threat Response Automation])
+  A6([🌐 Phase 6: Community Feedback + Voting])
+
+  A1 --> A2 --> A3 --> A4 --> A5 --> A6
+```
+```
+- 📥:Ingest data from honeypots, CTI APIs, Discord feeds, etc. Normalize into structured IOCs/events.
+- 🔁:Route threat data via modular Discord bot ↔ webhook ↔ DB sync engine.
+- 🧠:Enrich and score threats using LLMs, NLP, and signature systems.
+- 📊:*Visualize intelligence via dashboards, MITRE overlays, and terminal interfaces.
+- 🤖: Trigger responses with SIGMA rules, heuristics, or chained TTPs.
+- 🌐: Let the community vote, validate, and contribute scoring intelligence.
+```
+
+<div align="center">
+
+| Tools | Gists | Micro-Labs |
+|--------|-----------|--------|
+| 🧪 [`Sigma + YARA Labs`](https://gist.github.com/vVv-Keys) | *(Public-ready hunting templates)* | X |
+| 🐍 [`Python CTI Enrichers`](https://github.com/vVv-Keys/KeysTools) | *(Live enrichment plugins)* | X |
+| 📎 [`One-file PoCs`](https://github.com/vVv-Keys/aishadow-malware-labs/tree/main/standalone-pocs) | *(Custom + Enhanced)* | X | 
+| 📡 [`IOC Validators`](https://github.com/vVv-Keys/404-CTI) | *(Modular + webhook driven)* | X |
+</div>
+
+
+</div>
+
+<div align="center">
+
+<br>
+
 <div align="center">
 
 ## 🛰️ MITRE ATT&CK visualizer, terminal CLI, and threat feed panel built using HTML/CSS/JS.
@@ -251,44 +295,6 @@ Red/Purple team curriculum • Field-grade cyber ops modules
 </table>
 
 </div>
-
-## 📆 Roadmap Preview
-
-```mermaid
-flowchart LR
-  A1([📥 Phase 1: Collection Engine])
-  A2([🔁 Phase 2: Discord Feed System])
-  A3([🧠 Phase 3: AI Enrichment & Scoring])
-  A4([📊 Phase 4: Dashboard Intelligence Sync])
-  A5([🤖 Phase 5: Threat Response Automation])
-  A6([🌐 Phase 6: Community Feedback + Voting])
-
-  A1 --> A2 --> A3 --> A4 --> A5 --> A6
-```
-```
-- 📥:Ingest data from honeypots, CTI APIs, Discord feeds, etc. Normalize into structured IOCs/events.
-- 🔁:Route threat data via modular Discord bot ↔ webhook ↔ DB sync engine.
-- 🧠:Enrich and score threats using LLMs, NLP, and signature systems.
-- 📊:*Visualize intelligence via dashboards, MITRE overlays, and terminal interfaces.
-- 🤖: Trigger responses with SIGMA rules, heuristics, or chained TTPs.
-- 🌐: Let the community vote, validate, and contribute scoring intelligence.
-```
-
-<div align="center">
-
-| Tools | Gists | Micro-Labs |
-|--------|-----------|--------|
-| 🧪 [`Sigma + YARA Labs`](https://gist.github.com/vVv-Keys) | *(Public-ready hunting templates)* | X |
-| 🐍 [`Python CTI Enrichers`](https://github.com/vVv-Keys/KeysTools) | *(Live enrichment plugins)* | X |
-| 📎 [`One-file PoCs`](https://github.com/vVv-Keys/aishadow-malware-labs/tree/main/standalone-pocs) | *(Custom + Enhanced)* | X | 
-| 📡 [`IOC Validators`](https://github.com/vVv-Keys/404-CTI) | *(Modular + webhook driven)* | X | 
-
-
-</div>
-
-<div align="center">
-
-<br>
 
 ---
 ## 🧠 Technical Arsenal
@@ -394,8 +400,6 @@ flowchart LR
 
 </div>
 
-<div align="center">
-  
 <!-- 🧩 PROJECT CARD SHOWCASE -->
 <div align="center">
   <table>
@@ -425,67 +429,35 @@ flowchart LR
     </tr>
   </table>
 </div>
-
-<div align="center">
-
-## 🔐 Private Projects (Overview) 
-
 </div>
+
 <div align="center">
 
-> 🚧 These are high-level summaries of internal projects built under **404Labs** / **KeysGuard Division**. <
-> 🔒 Access available upon vetted collaboration or request. <
-
-</div>
+<!-- 🔐 PRIVATE PROJECT OVERVIEW -->
 <div align="center">
+
+<h3>🔐 Internal Projects: 404Labs & KeysGuard Division</h3>
+<sub><i>Access by request • Internal only • Strategic collaboration required</i></sub>
+<br><br>
+
 <table>
   <thead>
     <tr>
-      <th align="left">🧠 Project</th>
-      <th align="left">📋 Description</th>
+      <th>🧠 Project</th>
+      <th>📋 Description</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><code>KeysGuard-CyberAcademy</code></td>
-      <td>Training academy with Red/Blue/Purple simulations + cert lab pipelines.</td>
-    </tr>
-    <tr>
-      <td><code>AI Architect Diagram</code></td>
-      <td>Visual automation diagrams for complex AI-driven threat ops and response.</td>
-    </tr>
-    <tr>
-      <td><code>404-INTELNET</code></td>
-      <td>Federated threat intel harvesting and IOC enrichment system.</td>
-    </tr>
-    <tr>
-      <td><code>KeysGuard ThreatNet</code></td>
-      <td>Distributed cyber sensor mesh network for live threat aggregation.</td>
-    </tr>
-    <tr>
-      <td><code>CyberNETICS-CTI</code></td>
-      <td>ML-powered CTI engine with attacker logic chaining and signal fusion.</td>
-    </tr>
-    <tr>
-      <td><code>ThreatScape-CTI</code></td>
-      <td>Actor profiling, threat reporting automation, campaign clustering.</td>
-    </tr>
-    <tr>
-      <td><code>404-GhostFrame</code></td>
-      <td>Deception framework for honeynets, ghost signals, and adversary misdirection.</td>
-    </tr>
-    <tr>
-      <td><code>404-Dashboard</code></td>
-      <td>Unified visualization dashboard across Red/Purple/CTI modules.</td>
-    </tr>
-    <tr>
-      <td><code>404-Cache</code></td>
-      <td>Ephemeral memory store for TTPs, shell state, and operator sessions.</td>
-    </tr>
-    <tr>
-      <td><code>404-Auth</code></td>
-      <td>Federated auth system with multi-domain ID brokering and internal ACL layers.</td>
-    </tr>
+    <tr><td><code>KeysGuard-CyberAcademy</code></td><td>Red/Blue/Purple lab platform for elite simulation tracks.</td></tr>
+    <tr><td><code>AI Architect Diagram</code></td><td>Automation blueprints for real-time AI-assisted CTI ops.</td></tr>
+    <tr><td><code>404-INTELNET</code></td><td>Threat intel harvester + IOC enricher grid.</td></tr>
+    <tr><td><code>KeysGuard ThreatNet</code></td><td>Federated sensors with live threat telemetry ingest.</td></tr>
+    <tr><td><code>CyberNETICS-CTI</code></td><td>Machine-driven attacker chaining & fusion scoring.</td></tr>
+    <tr><td><code>ThreatScape-CTI</code></td><td>Adversary behavior graphing, campaign lineage, automation.</td></tr>
+    <tr><td><code>404-GhostFrame</code></td><td>Decoy injection + honeynet redirection system.</td></tr>
+    <tr><td><code>404-Dashboard</code></td><td>Unified intel + red team dashboard visualizer.</td></tr>
+    <tr><td><code>404-Cache</code></td><td>Ephemeral operator memory store for live TTP chaining.</td></tr>
+    <tr><td><code>404-Auth</code></td><td>Federated ID broker with ACL and multitenant trust.</td></tr>
   </tbody>
 </table>
 
@@ -497,7 +469,7 @@ flowchart LR
 
 ## 📬 Want to Collaborate?
 
-💬 If you're working in **Cybersecurity**, **AI Fusion**, **Red/Purple Team Ops**, or **CTI Engineering** —  
+💬 If you're working in **Cybersecurity**, **AI Fusion**, **Red/Purple Team Ops**, or **CTI Engineering** — 
 I'm open to **partnerships**, **collabs**, or secure repo access for aligned missions.
 
 </div>
