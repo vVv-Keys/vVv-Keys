@@ -16,13 +16,13 @@
 
 <div align="center">
   <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="400" alt="KeysGuard Logo"/>
-  
+</div>
+
 ---
 # 🧠 ABOUT ME:
-
 <!-- 🎛️ Animated Stack Ribbon (STATIC FAKE TICKER) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=200&color=5EFCD6&center=true&vCenter=true&multiline=true&repeat=true&width=1500&height=40&lines=404%20%20%7C%20CTI%20Fusion%20%7C%20YARA%20%7C%20Sigma%20%7C%20MITRE%20%7C%20MalDev%20%7C%20Detection%20Engineering%20%7C%20Threat%20Emulation%20%7C%20%20Bots%20%7C%20GhostSec+Infra" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=200&color=5EFCD6&center=true&vCenter=true&multiline=true&repeat=true&width=1500&height=35&lines=404%20%20%7C%20CTI%20Fusion%20%7C%20YARA%20%7C%20Sigma%20%7C%20MITRE%20%7C%20MalDev%20%7C%20Detection%20Engineering%20%7C%20Threat%20Emulation%20%7C%20%20Bots%20%7C%20GhostSec+Infra" />
   <h3>
     🛡️ <strong>Cybersecurity</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
     💰 <strong>Finance</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -48,10 +48,9 @@
 [![Discord](https://img.shields.io/badge/Discord-%40KeysGuard-%237289DA?style=flat&logo=discord)](https://discord.gg/zxAkGet7Qs)
 [![Portfolio](https://img.shields.io/badge/Portfolio-VERCEL%20-5e0ce0?style=flat)](https://about-keys.vercel.app/)
 
----
-
-## 🎯 Currently Building
 </div>
+
+# 🎯 Currently Building:
 <table>
   <tr>
     <td valign="top" width="50%">
