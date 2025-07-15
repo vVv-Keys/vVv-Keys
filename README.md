@@ -141,16 +141,12 @@ Red/Purple team curriculum • Field-grade cyber ops modules
 
 </div>
 
----
-
 <!-- 🔥 NEON SEPARATOR -->
 <div align="center">
   <img src="https://github.com/vVv-Keys/vVv-Keys/assets/placeholder/neon-divider-fixed.gif" width="1000" height="12" alt="Neon Line" />
 </div>
 
 <!-- 📆 ROADMAP PREVIEW -->
-
-🚀 LIVE SYSTEM STATUS 
 <div align="center">
   <table>
     <tr>
@@ -184,7 +180,7 @@ Red/Purple team curriculum • Field-grade cyber ops modules
 
 <!-- 🎛️ Animated Stack Ribbon (STATIC FAKE TICKER) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=200&color=5EFCD6&center=true&vCenter=true&multiline=true&repeat=true&width=1500&height=40&lines=404%20%7C%20%20%7C%20CTI%20Fusion%20%7C%20YARA%20%7C%20Sigma%20%7C%20MITRE%20%7C%20MalDev%20%7C%20Detection%20Engineering%20%7C%20Threat%20Emulation%20%7C%20%20Bots%20%7C%20GhostSec+Infra" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=200&color=5EFCD6&center=true&vCenter=true&multiline=true&repeat=true&width=1500&height=40&lines=404%20%20%7C%20CTI%20Fusion%20%7C%20YARA%20%7C%20Sigma%20%7C%20MITRE%20%7C%20MalDev%20%7C%20Detection%20Engineering%20%7C%20Threat%20Emulation%20%7C%20%20Bots%20%7C%20GhostSec+Infra" />
 </div>
 
 <!-- 🧩 PROJECT CARD SHOWCASE -->
