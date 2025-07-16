@@ -66,8 +66,8 @@
 
 - [x] TTP Mapping Engine  
 - [x] MITRE Layer Integration  
-- [ ] Live Threat Heatmap Panel  
-- [ ] AI Recommendation Module  
+- [x] Live Threat Heatmap Panel  
+- [x] AI Recommendation Module  
 
 </details>
 
@@ -106,8 +106,8 @@
 
 - [x] Discord Bot Engine  
 - [x] Webhook ↔ Router Logic  
-- [ ] DB Event Sync Layer  
-- [ ] Audit Logging Panel  
+- [x] DB Event Sync Layer  
+- [x] Audit Logging Panel  
 
 </details>
 
