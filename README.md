@@ -31,6 +31,9 @@
 
 </div>
 
+🔬 Originator of Quantum Threat Intelligence™ (QTI)©
+📜 Published 2025 via GitHub, NSA SOS, and KeysGuard IP archive
+
 ---
 
 🛠️ **Toolsmith for Cybersecurity Simulation & Defense**  
