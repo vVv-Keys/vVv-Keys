@@ -49,7 +49,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=vVv-Keys&style=flat&color=16F2B3)](https://github.com/vVv-Keys)
 [![GitHub followers](https://img.shields.io/github/followers/vVv-Keys?label=Follow%20Me&style=social)](https://github.com/vVv-Keys)
 [![Discord](https://img.shields.io/badge/Discord-%40KeysGuard-%237289DA?style=flat&logo=discord)](https://discord.gg/zxAkGet7Qs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-VERCEL%20-5e0ce0?style=flat)](https://about-keys.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-KEYS%20-5e0ce0?style=flat)](https://keys.keysguard.tech/)
 
 </div>
 
