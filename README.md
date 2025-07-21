@@ -32,7 +32,7 @@
 </div>
 
 🔬 Quantum Threat Intelligence™ (QTI)©
-📜 Published 2025 via GitHub, NSA SOS, and KeysGuard IP archive
+📜 Published 2025
 
 ---
 
