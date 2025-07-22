@@ -32,10 +32,7 @@
 </div>
 
 🔬 Quantum Threat Intelligence™ (QTI)©
-📜 Published 2025
-
----
-
+📜 Published 2025<br>
 🛠️ **Toolsmith for Cybersecurity Simulation & Defense**  
 🔍 *Expertise:* Red Team Operations · Memory Forensics · Detection Engineering · CTI Pipelines  
 📊 *Approach:* Offensive R&D meets Threat Simulation and Detection Strategy  
@@ -52,6 +49,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-KEYS%20-5e0ce0?style=flat)](https://keys.keysguard.tech/)
 
 </div>
+
+---
 
 # 🎯 Currently Building:
 <table>
