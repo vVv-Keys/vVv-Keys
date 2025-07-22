@@ -220,37 +220,6 @@ Red/Purple team curriculum • Field-grade cyber ops modules
 </div>
 
 ---
-
-<!-- 🧩 PROJECT CARD SHOWCASE -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/vVv-Keys/KeysGuard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=KeysGuard&theme=radical" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vVv-Keys/404-CTI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=404-CTI&theme=radical" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/vVv-Keys/AI-ML-Learning-Resource-Hub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=AI-ML-Learning-Resource-Hub&theme=radical" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vVv-Keys/404-DiscoBOT">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=404-DiscoBOT&theme=radical" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <!-- 🔥 NEON SEPARATOR -->
 <div align="center">
   <img src="https://github.com/vVv-Keys/vVv-Keys/assets/placeholder/neon-divider-fixed.gif" width="1000" height="12" alt="Neon Line" />
@@ -388,37 +357,6 @@ flowchart LR
 
 </div>
 
-<!-- 🧩 PROJECT CARD SHOWCASE -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/vVv-Keys/KeysGuard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=KeysGuard&theme=radical" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vVv-Keys/404-CTI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=404-CTI&theme=radical" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/vVv-Keys/AI-ML-Learning-Resource-Hub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=AI-ML-Learning-Resource-Hub&theme=radical" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vVv-Keys/404-DiscoBOT">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=404-DiscoBOT&theme=radical" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-</div>
-
 <div align="center">
 
 <!-- 🔐 PRIVATE PROJECT OVERVIEW -->
@@ -492,6 +430,37 @@ flowchart LR
 </table>
 
 ---
+
+<!-- 🧩 PROJECT CARD SHOWCASE -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/vVv-Keys/KeysGuard">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=KeysGuard&theme=radical" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vVv-Keys/404-CTI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=404-CTI&theme=radical" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/vVv-Keys/AI-ML-Learning-Resource-Hub">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=AI-ML-Learning-Resource-Hub&theme=radical" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vVv-Keys/404-DiscoBOT">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vVv-Keys&repo=404-DiscoBOT&theme=radical" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+</div>
 
 </div>
 
