@@ -150,7 +150,6 @@ Field-grade Red/Purple team curriculum • Quantum Threat Intelligence training
 
 </div>
 
-
 ---
 
 ## 📆 Roadmap Preview
@@ -168,7 +167,11 @@ flowchart LR
 
 ---
 
+<div align = 'center'>  
+
 ## 🧠 Technical Arsenal
+
+</div>
 
 <div align="center">
 
@@ -182,23 +185,6 @@ flowchart LR
 | 🛁 [IOC Validators](https://github.com/vVv-Keys/404-CTI)                                          | Modular + webhook driven | ✔️     |
 
 ---
-
-### 🔐 Internal Projects: 404Labs & KeysGuard Division
-
-Access by request • Strategic collaborations only
-
-| Project                  | Description                                              |
-| ------------------------ | -------------------------------------------------------- |
-| `KeysGuard-CyberAcademy` | Red/Blue/Purple lab platform for elite simulation tracks |
-| `404-INTELNET`           | Threat intel harvester + IOC enricher grid               |
-| `CyberNETICS-CTI`        | Machine-driven attacker chaining & fusion scoring        |
-| `ThreatScape-CTI`        | Adversary behavior graphing, campaign lineage            |
-| `404-GhostFrame`         | Decoy injection + honeynet redirection                   |
-| `404-Auth`               | Federated ID broker with ACL & multi-tenant trust        |
-
----
-
-
 
 ## 📬 Want to Collaborate?
 
