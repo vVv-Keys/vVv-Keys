@@ -5,7 +5,7 @@
   <a href="#🎯-currently-building">🛠️ Projects</a> •
   <a href="#🛰️-mitre-attck-visualizer">📡 Dashboard</a> •
   <a href="#📆-roadmap-preview">📆 Roadmap</a> •
-  <a href="#🚀-featured-projects">🚀 Projects</a> •
+  <a href="#🚀-featured-projects">🚀 Featured</a> •
   <a href="#🔐-private-projects-overview">🔐 Private</a> •
   <a href="#📬-want-to-collaborate">🤝 Contact</a>
 </div>
