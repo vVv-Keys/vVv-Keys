@@ -52,7 +52,7 @@
 
 ---
 
-⚡ *Pushing boundaries, one line of code at a time.*
+⚡ *Detect - Defend - Dominate*
 
 </div>
 ```
