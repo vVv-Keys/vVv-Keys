@@ -52,10 +52,6 @@
 
 ---
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=vVv-Keys\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=8)](https://github.com/vVv-Keys)
-
----
-
 ⚡ *Pushing boundaries, one line of code at a time.*
 
 </div>
