@@ -34,8 +34,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vVv-Keys&style=flat-square&color=16F2B3)](https://github.com/vVv-Keys)
 [![GitHub followers](https://img.shields.io/github/followers/vVv-Keys?label=Follow%20Me&style=social)](https://github.com/vVv-Keys)
-[![Discord](https://img.shields.io/badge/Discord-%40KeysGuard-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/zxAkGet7Qs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-KEYS-5e0ce0?style=flat-square)](https://keys.keysguard.tech/)
+[![Discord](https://img.shields.io/badge/Discord-%40KeysGuard-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/CXu2fD63jm)
+[![Portfolio](https://img.shields.io/badge/Portfolio-KEYS-5e0ce0?style=flat-square)](https://key.keysguard.tech/)
 
 </div>
 
