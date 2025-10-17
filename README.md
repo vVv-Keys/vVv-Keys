@@ -45,7 +45,6 @@
 💬 Open to partnerships and collabs in **Cybersecurity**, **AI Fusion**, **Red/Purple Team Ops**, **CTI Engineering**
 
 [![Email](https://img.shields.io/badge/Email-Me-black?style=for-the-badge\&logo=protonmail)](mailto:warlordkeys@protonmail.me)
-[![Secure Contact](https://img.shields.io/badge/Secure%20Contact-Via%20404Labs-16F2B3?style=for-the-badge\&logo=vercel)](mailto:keysguard@usa.com)
 
 ---
 
