@@ -45,9 +45,9 @@
 
 💬 Open to partnerships and collabs in **Cybersecurity**, **AI Fusion**, **Red/Purple Team Ops**, **CTI Engineering**
 
-[![Join Discord](https://img.shields.io/badge/Join%20Discord-%40KeysGuard-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/bVcEgwuxxy)
+[![Join Discord](https://img.shields.io/badge/Join%20Discord-%40KeysGuard-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/CXu2fD63jm)
 [![GitHub](https://img.shields.io/badge/GitHub-vVv--Keys-181717?style=for-the-badge\&logo=github)](https://github.com/vVv-Keys)
-[![Email](https://img.shields.io/badge/Email-Me-black?style=for-the-badge\&logo=protonmail)](mailto:warlord.keys@protonmail.com)
+[![Email](https://img.shields.io/badge/Email-Me-black?style=for-the-badge\&logo=protonmail)](mailto:warlordkeys@protonmail.me)
 [![Secure Contact](https://img.shields.io/badge/Secure%20Contact-Via%20404Labs-16F2B3?style=for-the-badge\&logo=vercel)](mailto:keysguard@usa.com)
 
 ---
