@@ -34,8 +34,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vVv-Keys&style=flat-square&color=16F2B3)](https://github.com/vVv-Keys)
 [![GitHub followers](https://img.shields.io/github/followers/vVv-Keys?label=Follow%20Me&style=social)](https://github.com/vVv-Keys)
-[![Discord](https://img.shields.io/badge/Discord-%40KeysGuard-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/CXu2fD63jm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-KEYS-5e0ce0?style=flat-square)](https://key.keysguard.tech/)
+
 
 </div>
 
@@ -45,8 +44,6 @@
 
 💬 Open to partnerships and collabs in **Cybersecurity**, **AI Fusion**, **Red/Purple Team Ops**, **CTI Engineering**
 
-[![Join Discord](https://img.shields.io/badge/Join%20Discord-%40KeysGuard-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/CXu2fD63jm)
-[![GitHub](https://img.shields.io/badge/GitHub-vVv--Keys-181717?style=for-the-badge\&logo=github)](https://github.com/vVv-Keys)
 [![Email](https://img.shields.io/badge/Email-Me-black?style=for-the-badge\&logo=protonmail)](mailto:warlordkeys@protonmail.me)
 [![Secure Contact](https://img.shields.io/badge/Secure%20Contact-Via%20404Labs-16F2B3?style=for-the-badge\&logo=vercel)](mailto:keysguard@usa.com)
 
