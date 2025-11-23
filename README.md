@@ -1,4 +1,3 @@
-
 ---
 
 <div align="center">
@@ -11,14 +10,11 @@
 
 ---
 
-# 🧠 ABOUT ME:
+<div align="center"># 🧠 ABOUT ME:
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=200&color=5EFCD6&center=true&vCenter=true&multiline=true&repeat=true&width=1500&height=35&lines=404%20%7C%20CTI%20Fusion%20%7C%20YARA%20%7C%20Sigma%20%7C%20MITRE%20%7C%20MalDev%20%7C%20Detection%20Engineering%20%7C%20Threat%20Emulation%20%7C%20Bots%20%7C%20GhostSec+Infra" />
   
-  <h3>
-    🛡️ <strong>Cybersecurity</strong> | 💰 <strong>Finance</strong> | 💼 <strong>Business Development</strong>
-  </h3>
 </div>
 
 🔬 **Quantum Threat Intelligence™ (QTI)** – Published 2025  
