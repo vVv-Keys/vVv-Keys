@@ -32,20 +32,6 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vVv-Keys&style=flat-square&color=16F2B3)](https://github.com/vVv-Keys)
-[![GitHub followers](https://img.shields.io/github/followers/vVv-Keys?label=Follow%20Me&style=social)](https://github.com/vVv-Keys)
-
-
-</div>
-
----
-
-## 📬 Want to Collaborate?
-
-💬 Open to partnerships and collabs in **Cybersecurity**, **AI Fusion**, **Red/Purple Team Ops**, **CTI Engineering**
-
-[![Email](https://img.shields.io/badge/Email-Me-black?style=for-the-badge\&logo=protonmail)](mailto:warlordkeys@protonmail.me)
-
 ---
 
 ⚡ *Detect - Defend - Dominate*
