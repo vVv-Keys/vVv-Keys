@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/vVv-Keys/vVv-Keys/blob/main/keysguard2png.png" width="400" alt="KeysGuard Logo"/>
+  <img src="" width="400" alt=""/>
 </div>
 
 ---
