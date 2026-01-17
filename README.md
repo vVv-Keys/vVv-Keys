@@ -50,7 +50,9 @@
 ### 🚀 Recent Contributions
 
 - **[OWLWATCH](https://github.com/vVv-Keys/OWLWATCH)** – Developed a daily automation and reporting tool integrating Jinja2 templates, GitHub Actions, and Discord webhooks.
-- **Sigma Rule Development** – Authored multiple detection rules focusing on lateral movement and remote execution (PsExec, Msiexec, InstallUtil, Certutil, Schtasks, Wmic, Bitsadmin, Rundll32, InstallUtil, MSBuild, Certreq, and more), contributing to the Sigma ecosystem.
+- **Sigma Rule Development** – Authored numerous detection rules focusing on lateral movement, remote execution, and other adversary techniques across Windows (e.g., PsExec, Msiexec, InstallUtil, Certutil, Schtasks, Wmic, Bitsadmin, Rundll32, MsBuild, Certreq, Wevtutil, Regsvcs/Regasm, At.exe, net use).
 - **Falco Runtime Rules** – Added container runtime security rules to FALCOSEC for detecting suspicious remote script execution and network events.
+- **[Threat Hunting Insights](threat_hunting_insights)** – Published CTI-driven hunting reports linking Sigma detection rules with MITRE tactics and providing actionable hunting tips (msiexec, wevtutil, PsExec, net use, certutil, at.exe).
 
+Feel free to explore these repositories and contributions!
 Feel free to explore these repositories and contributions!
