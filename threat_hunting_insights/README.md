@@ -10,7 +10,7 @@ This folder contains curated threat-hunting insights and analytics that align wi
 - [PsExec Remote Execution](psexec_remote_exec.md)
 
 - [Suspicious net use Remote Share Mapping](netuse_remote_share.md)
-- -[Suspicious Certutil Download or Encode](certutil_download_encode.md)
+- [Suspicious Certutil Download or Encode](certutil_download_encode.md)
 - [Suspicious at.exe Remote Scheduled Task](at_remote_job.md)
 ## About
 
