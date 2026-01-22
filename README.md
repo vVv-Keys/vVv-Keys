@@ -55,4 +55,3 @@
 - **[Threat Hunting Insights](threat_hunting_insights)** – Published CTI-driven hunting reports linking Sigma detection rules with MITRE tactics and providing actionable hunting tips (msiexec, wevtutil, PsExec, net use, certutil, at.exe).
 
 Feel free to explore these repositories and contributions!
-Feel free to explore these repositories and contributions!
