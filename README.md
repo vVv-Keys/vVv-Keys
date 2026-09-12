@@ -30,7 +30,11 @@
 - Threat simulation: atomic-style tests, emulation plans, and operator workflows |  
 - CTI automation: enrichment, clustering, fusion, and “intel-to-detection” pipelines |  
 - Memory-focused security R&D: triage, artifacts, tradecraft-aware analysis |  
-
+- Sound as an attack vector |
+- Frequency / Hz / Bandwidth and other things you cant regularly see |
+- Music Tool Creation & Vocal Tool Creation.
+- How to fix "AI MUSISC"... 
+- VocalLabs will solve this issue... 
  🛰️ *“Assume breach. Simulate smarter.”*
 
 
